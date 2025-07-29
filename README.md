@@ -1,17 +1,3 @@
-Absolutely! Here's an **improved, bolder, and more stylish version** of your GitHub profile README using:
-
-* A **waving header** banner
-* **Bold icons** and Unicode symbols
-* Cleaner layout and formatting
-* Fully **Markdown-compatible** (avoiding `div` blocks which may not render properly on GitHub)
-
----
-
-> ✅ Just copy and paste this into your `README.md` in the repo `shubhratchaursiya`
-
----
-
-````markdown
 <!-- Profile Header Banner -->
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Shubhrat%20Chaursiya&fontSize=40&fontAlign=center&desc=B.Tech%20Student%20|%20C%2FC%2B%2B%20%7C%20GitHub%20Learner&descSize=20&descAlign=center"/>
 
