@@ -1,15 +1,15 @@
 <!-- Profile Header Banner -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Shubhrat%20Chaursiya&fontSize=40&fontAlign=center&desc=B.Tech%20Student%20|%20C%2FC%2B%2B%20%7C%20GitHub%20Learner&descSize=20&descAlign=center"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=200&section=header&text=Shubhrat%20Chaursiya&fontSize=40&fontAlign=center&desc=B.Tech%20Student%20%7C%20C%2FC%2B%2B%20%7C%20GitHub%20Learner&descSize=20&descAlign=center"/>
 
-<h1 align="center">💫 Shubhrat Chaursiya</h1>
+<h1 align="center">💫&nbsp;&nbsp;<span style="color:#800080">Shubhrat &nbsp;&nbsp;Chaursiya</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;UI%2FUX+%26+Graphic+Designer;Cybersecurity+%26+Java+Enthusiast;Unity+Game+Programmer;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=800080&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;UI%2FUX+%26+Graphic+Designer;Cybersecurity+%26+Java+Enthusiast;Unity+Game+Programmer;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<b>👨‍🎓 Student</b> | <b>💻 Developer</b> | <b>🎨 Designer</b> | <b>🛡️ Cybersecurity Enthusiast</b> | <b>🎮 Unity Game Programmer</b><br>
-📍 <strong>Jaipur, India</strong> | 📧 <strong>shubhratchaursiya2005@gmail.com</strong> | 📱 <strong>+91 73398 93753</strong><br>
+<b>👨‍🎓&nbsp; Student</b> | <b>💻&nbsp; Developer</b> | <b>🎨&nbsp; Designer</b> | <b>🛡️&nbsp; Cybersecurity Enthusiast</b> | <b>🎮&nbsp; Unity Game Programmer</b><br>
+📍 <strong>Jaipur, India</strong> &nbsp;|&nbsp; 📧 <strong>shubhratchaursiya2005@gmail.com</strong> &nbsp;|&nbsp; 📱 <strong>+91 73398 93753</strong><br>
 <a href="https://www.linkedin.com/in/shubhrat-chaursiya-819672354/">🔗 LinkedIn</a> •
 <a href="https://github.com/shubhratchaursiya">💻 GitHub</a> •
 <a href="https://x.com/shubhrat_0829">🐦 Twitter</a> •
@@ -67,8 +67,10 @@
 
 ## 🧪 Internships
 
-* 🛡️ **Cybersecurity Intern** – Learn and Build (Jul–Oct 2024)
-* 💻 **Java Intern** – MicroIT (Apr–May 2025)
+* 🛡️ **Cybersecurity Intern** – Learn and Build *(Jul–Oct 2024)*
+* 💻 **Java Intern** – MicroIT *(Apr–May 2025)*
+* 🎨 **UI/UX + Graphic Designing** – Kashyap Technology *(June–July 2025)*
+* 🎮 **Game Programming with Unity** – Salesforce Academy *(June–Aug 2025)*
 
 ---
 
@@ -100,8 +102,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhratchaursiya&show_icons=true&theme=react&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratchaursiya&layout=compact&theme=react&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhratchaursiya&show_icons=true&theme=react&border_radius=10&title_color=800080&icon_color=800080" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratchaursiya&layout=compact&theme=react&border_radius=10&title_color=800080" width="48%" />
 </p>
 
 ---
@@ -115,7 +117,7 @@
 
 ---
 
-> ⚡ "Code, Create, Design, Repeat – because the best way to predict the future is to build it."
+> ⚡ *"Code, Create, Design, Repeat – because the best way to predict the future is to build it."*
 > — **Shubhrat Chaursiya**
 
 ```
