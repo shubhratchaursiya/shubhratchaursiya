@@ -1,12 +1,15 @@
-# 💫 Shubhrat Chaursiya
+<h1 align="center">
+  <span style="color:#3F62D6;">💫 <strong>Shubhrat</strong></span>
+  <span style="color:#FF6F61;"><strong>Chaursiya</strong></span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3F62D6&center=true&vCenter=true&width=480&lines=Aspiring+Software+Developer;UI%2FUX+%26+Graphic+Designer;Cybersecurity+%26+Java+Enthusiast;Unity+Game+Programmer;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3F62D6&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;UI%2FUX+%26+Graphic+Designer;Cybersecurity+%26+Java+Enthusiast;Unity+Game+Programmer;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Student | Developer | Designer | Cybersecurity Enthusiast | Unity Game Programmer</b><br>
-  <b>📍 Jaipur, India</b> | <b>📧 shubhratchaursiya2005@gmail.com</b> | <b>📱 +91 73398 93753</b><br>
+  <b><span style="color:#6C63FF;">Student</span> | <span style="color:#FF6F61;">Developer</span> | <span style="color:#4CAF50;">Designer</span> | <span style="color:#F9A826;">Cybersecurity Enthusiast</span> | <span style="color:#E91E63;">Unity Game Programmer</span></b><br>
+  📍 <b>Jaipur, India</b> | 📧 <b>shubhratchaursiya2005@gmail.com</b> | 📱 <b>+91 73398 93753</b><br>
   <a href="https://www.linkedin.com/in/shubhrat-chaursiya-819672354/">LinkedIn</a> •
   <a href="https://github.com/shubhratchaursiya">GitHub</a> •
   <a href="https://x.com/shubhrat_0829">X (Twitter)</a> •
@@ -16,87 +19,87 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🌟 <span style="color:#3F62D6;">About Me</span>
 
-Hello! I'm **Shubhrat Chaursiya** — a passionate B.Tech IT student at **Arya College of Engineering & IT** (RTU).  
-Driven by curiosity, I blend **software development**, **UI/UX & graphic design**, and **game programming with Unity**.  
-I’m always eager to explore **Java development, cybersecurity, cloud computing, and web development**.  
-Hackathon participant, lifelong learner, and a fan of real-world projects & creative teamwork!
-
----
-
-## 🛠️ Tech Stack & Skills
-
-- **Languages:** `C` | `C++` | `Java` | `Python` | `HTML`
-- **Design:** Figma | Adobe XD | Photoshop | Illustrator | Canva
-- **Game Dev:** Unity Engine | C# (basics) | Game Design Principles
-- **Domains:** Cybersecurity | Cloud Computing | Data Analytics | UI/UX | Graphic Design | Game Programming
-- **Tools & Platforms:** GitHub | Chatfuel | Oracle Fusion Cloud | Power BI | SQL
-- **Certificates:** RHCSA | Cisco Networking | Oracle Cloud Apps | Google AI Ads | be10X ChatGPT
+Hello! I'm <b>Shubhrat Chaursiya</b> — a passionate B.Tech IT student at <b>Arya College of Engineering & IT</b> (RTU).  
+Driven by curiosity, I blend <span style="color:#FF6F61;">software development</span>, <span style="color:#4CAF50;">UI/UX & graphic design</span>, and <span style="color:#E91E63;">game programming with Unity</span>.  
+Always eager to explore <span style="color:#3F62D6;">Java development</span>, <span style="color:#F9A826;">cybersecurity</span>, and <span style="color:#9C27B0;">web development</span>.
 
 ---
 
-## 💼 Projects
+## ⚙️ <span style="color:#3F62D6;">Tech Stack & Skills</span>
 
-- 🔐 **Cybersecurity Project:** Protecting digital infrastructure with hands-on implementations.
-- 🎮 **Unity Game Projects:** Building interactive games and experimenting with gameplay mechanics.
-- 🖌️ **UI/UX & Graphic Design Work:** Designing intuitive interfaces and creative visuals for web/mobile.
-- 💬 **Lead Generation Messenger Chatbot:** Automated business leads using Chatfuel.
-- 🎓 **Student Management System:** Java-based system for academic records.
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🥉 3rd Rank, District-Level Chess Tournament
-- 🏸 District-Level Badminton Competitor
-- 🥇 10+ National Level Technical Fests Participant:
-  - CodeRed 4.0 (VGU, Jaipur)
-  - Cursed Code (MAIT, New Delhi)
-  - Design of India (DTU)
-  - Nova Coders Hackathon (Vision Group, UP)
-  - IEEE Project Expo (JECRC Foundation)
-  - NHAI National Road Hackathon 2025
+- 🖥️ **Languages:** `C` | `C++` | `Java` | `Python` | `HTML`
+- 🎨 **Design:** Figma | Adobe XD | Photoshop | Illustrator | Canva
+- 🎮 **Game Dev:** Unity Engine | C# (basics)
+- 🔐 **Domains:** Cybersecurity | Cloud | Data Analytics | Game Dev
+- 🛠️ **Tools:** GitHub | Chatfuel | Oracle Fusion | Power BI | SQL
+- 🏆 **Certifications:** RHCSA | Cisco | Oracle Cloud | Google AI Ads
 
 ---
 
-## 🧪 Internships
+## 💼 <span style="color:#3F62D6;">Projects</span>
 
-- **Cyber Security Intern** – LnB (Jul–Oct 2024)
-- **Java Development Intern** – MicroIT (Apr–May 2025)
-
----
-
-## 📜 Certifications
-
-- 🛡️ **RHCSA** – Red Hat Certified System Administrator
-- ☁️ Oracle Fusion Cloud: SCM, HCM, ERP, CX
-- 🌐 **Networking Basics** – Cisco Academy
-- 🤖 **AI Tools & ChatGPT** – be10X
-- 📊 **Power BI**, **SQL**, **Web Dev**, **Python** (multiple platforms)
+- 🔐 <b>Cybersecurity Project</b>: Real-world protection strategies  
+- 🎮 <b>Unity Game Projects</b>: Built interactive gameplay  
+- 🖌️ <b>UI/UX Design Work</b>: Creative design for web & mobile  
+- 💬 <b>Chatbot for Lead Generation</b>: Chatfuel automation  
+- 🎓 <b>Student Management System</b>: Java-based academic tool  
 
 ---
 
-## 🎯 Career Objective
+## 🏆 <span style="color:#3F62D6;">Achievements</span>
 
-To leverage my passion for tech and design in a dynamic environment where I can innovate, learn, and contribute to impactful projects—across software, design, and game development.
+- ♟️ 3rd Rank – District Chess Tournament  
+- 🏸 District-Level Badminton Competitor  
+- 🥇 Participated in 10+ National Level Tech Events:
+  - CodeRed 4.0 – VGU, Jaipur  
+  - Cursed Code – MAIT, New Delhi  
+  - Design of India – DTU  
+  - Nova Coders Hackathon – Vision Group  
+  - IEEE Project Expo – JECRC  
+  - NHAI Road Hackathon – 2025  
 
 ---
 
-## ✨ Fun Facts
+## 🧪 <span style="color:#3F62D6;">Internships</span>
 
-- ♟️ Chess & strategy game lover
-- 🕹️ Gaming for sharp reflexes
-- 🏸 Badminton and outdoor sports fan!
-- 🎨 I love creating digital art and intuitive user experiences
+- 💼 <b>Cyber Security Intern</b> – LnB (Jul–Oct 2024)  
+- 💻 <b>Java Intern</b> – MicroIT (Apr–May 2025)  
 
 ---
 
-> “Code, Create, Design, Repeat – because the best way to predict the future is to build it.”
+## 📜 <span style="color:#3F62D6;">Certifications</span>
+
+- 🔐 RHCSA – Red Hat  
+- ☁️ Oracle Cloud (SCM, HCM, ERP, CX)  
+- 🌐 Cisco Networking Basics  
+- 🧠 AI Tools & ChatGPT – be10X  
+- 📊 Power BI, SQL, Web Dev, Python  
+
+---
+
+## 🎯 <span style="color:#3F62D6;">Career Objective</span>
+
+To leverage my passion for tech & design in a dynamic environment  
+where I can innovate, learn, and contribute to impactful software, design, and gaming projects.
+
+---
+
+## ✨ <span style="color:#3F62D6;">Fun Facts</span>
+
+- ♟️ Chess & strategy lover  
+- 🕹️ Gamer by instinct  
+- 🏸 Badminton enthusiast  
+- 🎨 Love digital art and minimalist UI  
+
+---
+
+> <i><b>"Code, Create, Design, Repeat – because the best way to predict the future is to build it."</b></i>
 
 ---
 
 <p align="center">
   <b>Let’s connect and collaborate!</b><br>
-  <i>Open to internships, open-source, game dev, and design projects!</i>
+  <i>I'm open to internships, game dev, design projects, and tech talks!</i>
 </p>
