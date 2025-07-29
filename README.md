@@ -1,67 +1,104 @@
-# 👋 Hi there, I'm Shubhrat Chaursiya
+<!-- Profile Header Banner -->
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Shubhrat%20Chaursiya&fontSize=40&fontAlign=center&desc=B.Tech%20Student%20|%20C%2FC%2B%2B%20%7C%20GitHub%20Learner&descSize=20&descAlign=center"/>
 
-**Aspiring Software Developer | UI/UX & Graphic Designer | Java & Cybersecurity Enthusiast | Unity Game Programmer**
+<h1 align="center" style="color:#ffffff;background:#3F62D6;padding:10px;border-radius:12px;">
+  💫 <span style="color:#ffffff;">Shubhrat</span> <span style="color:#FFCCCB;">Chaursiya</span>
+</h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3F62D6&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;UI%2FUX+%26+Graphic+Designer;Cybersecurity+%26+Java+Enthusiast;Unity+Game+Programmer;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+</p>
 
-## 🌱 About Me
-
-- B.Tech IT student at **Arya College of Engineering & IT (RTU)**
-- Passionate about **software development**, **web design**, **game dev with Unity**, and **cybersecurity**
-- Always learning new technologies and building things that matter  
-- Open to collaboration on design, web, and game dev projects
-
----
-
-## 🛠️ Tech Stack
-
-| Area            | Tools & Technologies                                          |
-|-----------------|--------------------------------------------------------------|
-| Languages       | C, C++, Java, Python, HTML                                    |
-| Design          | Figma, Adobe XD, Photoshop, Illustrator, Canva                |
-| Game Dev        | Unity Engine, C#                                             |
-| Dev Domains     | Cybersecurity, Cloud, Data Analytics                         |
-| Tools & Others  | GitHub, Oracle Fusion Cloud, Chatfuel, Power BI, SQL         |
+<div align="center" style="background-color:#F0F8FF;padding:10px;border-radius:10px;">
+  <b>Student | Developer | Designer | Cybersecurity Enthusiast | Unity Game Programmer</b><br>
+  📍 <b>Jaipur, India</b> | 📧 <b>shubhratchaursiya2005@gmail.com</b> | 📱 <b>+91 73398 93753</b><br>
+  <a href="https://www.linkedin.com/in/shubhrat-chaursiya-819672354/">LinkedIn</a> •
+  <a href="https://github.com/shubhratchaursiya">GitHub</a> •
+  <a href="https://x.com/shubhrat_0829">X (Twitter)</a> •
+  <a href="https://www.facebook.com/profile.php?id=100081059697888">Facebook</a> •
+  <a href="https://t.me/shubhrat_0829">Telegram</a>
+</div>
 
 ---
 
-## 📂 Featured Projects
+<div style="background:#FFF8DC;padding:10px;border-radius:10px">
+<h2>🌟 About Me</h2>
 
-- 🎮 **Unity Game Projects** – Interactive gameplay prototypes  
-- 🔐 **Cybersecurity Project** – Hands-on security implementations  
-- 💬 **Lead Gen Chatbot** – Built with Chatfuel for businesses  
-- 🎓 **Student Management System** – Java-based software for academic records  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhratchaursiya&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratchaursiya&layout=compact&theme=radical)
+Hello! I'm <b>Shubhrat Chaursiya</b> — a passionate B.Tech IT student at <b>Arya College of Engineering & IT</b> (RTU).  
+Driven by curiosity, I blend <span style="color:#FF6F61;">software development</span>, <span style="color:#4CAF50;">UI/UX & graphic design</span>, and <span style="color:#E91E63;">game programming with Unity</span>.  
+Always eager to explore <span style="color:#3F62D6;">Java development</span>, <span style="color:#F9A826;">cybersecurity</span>, and <span style="color:#9C27B0;">web development</span>.
+</div>
 
 ---
 
-## 📱 Connect with Me
+<div style="background:#F5F5DC;padding:10px;border-radius:10px">
+<h2>⚙️ Tech Stack & Skills</h2>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Shubhrat_Chaursiya-blue?logo=linkedin)](https://www.linkedin.com/in/shubhrat-chaursiya-819672354/)  
-[![X Badge](https://img.shields.io/badge/X-%40shubhrat_0829-blue?logo=twitter)](https://x.com/shubhrat_0829)  
-[![Telegram Badge](https://img.shields.io/badge/Telegram-%40shubhrat_0829-blue?logo=telegram)](https://t.me/shubhrat_0829)
+- 🖥️ <b>Languages:</b> `C` | `C++` | `Java` | `Python` | `HTML`  
+- 🎨 <b>Design:</b> Figma | Photoshop | Illustrator | Adobe XD  
+- 🎮 <b>Game Dev:</b> Unity Engine | C# (basics)  
+- 🔐 <b>Domains:</b> Cybersecurity | Cloud | Data Analytics  
+- 🛠️ <b>Tools:</b> GitHub | Chatfuel | Oracle Cloud | Power BI | SQL  
+- 🏆 <b>Certifications:</b> RHCSA | Oracle | Cisco | AI | Web Dev
+</div>
+
+---
+
+<div style="background:#E6F7FF;padding:10px;border-radius:10px">
+<h2>🏆 Achievements</h2>
+
+- ♟️ 3rd Rank – District Chess Tournament  
+- 🏸 District-Level Badminton Competitor  
+- 🥇 10+ National Tech Fests:
+  - CodeRed (VGU), Cursed Code (MAIT), Design of India (DTU), IEEE Expo (JECRC), Nova Coders Hackathon (Vision), NHAI Road Hackathon 2025
+</div>
+
+---
+
+<div style="background:#F0FFF0;padding:10px;border-radius:10px">
+<h2>🧪 Internships</h2>
+
+- 🛡️ <b>Cyber Security Intern</b> – LnB (Jul–Oct 2024)  
+- 💻 <b>Java Development Intern</b> – MicroIT (Apr–May 2025)
+</div>
+
+---
+
+<div style="background:#F5F5F5;padding:10px;border-radius:10px">
+<h2>📜 Certifications</h2>
+
+- 🔐 RHCSA – Red Hat  
+- ☁️ Oracle Cloud: SCM, ERP, HCM, CX  
+- 🌐 Cisco Networking Basics  
+- 🤖 AI Tools & ChatGPT – be10X  
+- 📊 Power BI, SQL, Web Dev, Python  
+</div>
+
+---
+
+## 🎯 Career Objective
+
+<p align="center" style="background:#FFF0F5;padding:10px;border-radius:10px">
+To leverage my passion for tech and design in a dynamic environment  
+where I can innovate, learn, and contribute to impactful projects across tech, design, and game development.
+</p>
 
 ---
 
 ## ✨ Fun Facts
 
-- 🧠 Chess & strategy game lover  
-- 🕹️ Gamer at heart  
-- 🏸 Outdoor sports fan  
-- 🎨 I enjoy designing digital art and friendly UI
+- 🎮 Gamer by passion  
+- ♟️ Chess player  
+- 🏸 Sports lover  
+- 🎨 UI Artist
 
 ---
 
-> “Code, Create, Design, Repeat – the best way to predict the future is to build it.”
+> <i><b>“Code, Create, Design, Repeat – the best way to predict the future is to build it.”</b></i>
 
 ---
 
-**Let’s connect and build something cool!**  
-Open for internships, open-source, design projects, and game dev collaborations.
+<p align="center" style="background:#D1ECF1;padding:10px;border-radius:10px">
+  <b>Let’s collaborate!</b><br>
+  <i>Open for internships, freelance design, Unity & web projects, or cybersecurity roles.</i>
+</p>
