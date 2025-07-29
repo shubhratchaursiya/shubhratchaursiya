@@ -1,5 +1,6 @@
-<!-- Profile Header Banner -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=220&section=header&text=Shubhrat%20Chaursiya&fontSize=40&fontAlign=50&desc=Aspiring%20Software%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Cybersecurity%20Learner&descAlign=50&descSize=18&fontColor=ffffff&descColor=ffffff"/>
+<!-- Profile Header Banner with Star Vibes -->
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=240&section=header&text=🌟%20Shubhrat%20Chaursiya%20🌟&fontSize=38&fontAlign=50&desc=Aspiring%20Software%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Cybersecurity%20Learner&descAlign=50&descSize=18&fontColor=ffffff&descColor=ffffff"/>
+
 
 <h1 align="center">💫&nbsp;&nbsp;<span style="color:#800080">Shubhrat &nbsp;&nbsp;Chaursiya</span></h1>
 
