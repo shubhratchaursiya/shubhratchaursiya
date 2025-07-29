@@ -1,5 +1,5 @@
 <!-- Profile Header Banner -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=200&section=header&text=Shubhrat%20Chaursiya&fontSize=40&fontAlign=center&desc=B.Tech%20Student%20%7C%20C%2FC%2B%2B%20%7C%20GitHub%20Learner&descSize=20&descAlign=center"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=220&section=header&text=Shubhrat%20Chaursiya&fontSize=40&fontAlign=50&desc=Aspiring%20Software%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Cybersecurity%20Learner&descAlign=50&descSize=18&fontColor=ffffff&descColor=ffffff"/>
 
 <h1 align="center">💫&nbsp;&nbsp;<span style="color:#800080">Shubhrat &nbsp;&nbsp;Chaursiya</span></h1>
 
