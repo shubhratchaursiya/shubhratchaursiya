@@ -109,6 +109,14 @@
 
 ---
 
+## Github Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanisha-Sharma005&theme=tokyonight&column=6"/>
+</p>
+
+---
+
 ## 🤝 Let’s Collaborate!
 
 <p align="center">
