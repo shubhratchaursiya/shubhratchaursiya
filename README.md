@@ -1,27 +1,28 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Shubhrat Chaursiya</h1>
-<h3 align="center">🔐 Cybersecurity | ⚙️ DevOps | ☁️ Cloud | 🐍 Python</h3>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=260&section=header&text=Shubhrat%20Chaursiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20DevOps%20%7C%20Cloud%20Engineer%20%7C%20Python&descAlignY=55&descSize=20"/>
+
+<h1 align="center">🛡️ Shubhrat Chaursiya</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Cybersecurity+Learner;DevOps+Engineer+in+Progress;Cloud+Computing+Explorer;Python+Automation+Developer;Linux+Enthusiast;Future+SOC+Analyst" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C770FF&center=true&vCenter=true&width=750&lines=Linux+System+Administrator;Cybersecurity+Learner;DevOps+%26+Cloud+Engineer;Python+Automation+Developer;RHCSA+Certified"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🧰 Core Technologies
 
 <p align="center">
-<a href="https://linkedin.com/in/shubhrat-chaursiya-819672354/">
-<img src="https://img.shields.io/badge/LinkedIn-Shubhrat%20Chaursiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:shubhratchaursiya2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-shubhratchaursiya2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/C-1f425f?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<a href="https://github.com/shubhratchaursiya">
-<img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
 ---
@@ -36,21 +37,6 @@
 - 🧠 Working with Linux, Networking & Security Monitoring
 - 🎯 Target Role: **SOC Analyst / DevOps Engineer / Cloud Engineer**
 
----
-
-# 🔐 Core Skills
-
-### Cybersecurity
-`Network Security` • `Vulnerability Scanning` • `Linux Hardening` • `SOC Concepts`
-
-### DevOps
-`Git` • `GitHub Actions` • `Docker` • `CI/CD Basics`
-
-### Cloud
-`AWS Fundamentals` • `Virtual Machines` • `Deployment`
-
-### Programming
-`Python` • `Java` • `C++` • `C` • `HTML` • `CSS`
 
 ---
 
@@ -127,24 +113,28 @@
 </p>
 
 ---
+## 🌐 Connect With Me
 
-# 🧠 Currently Learning
-- Advanced Linux
-- Docker & Containerization
-- AWS Deployment
-- SIEM & SOC Monitoring
-- Python Security Tools
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/shubhrat-chaursiya-819672354/">
+<img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 🎯 2026 Goals
-- Build 5 Cybersecurity Tools using Python
-- Deploy a project on AWS
-- Create CI/CD Pipeline
-- Get Cybersecurity / DevOps Internship
+<a href="mailto:shubhratchaursiya2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shubhratchaursiya">
+<img src="https://img.shields.io/badge/GitHub-800080?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-⭐ “Security is a process, not a product.” ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 </p>
+
+> Secure • Automate • Deploy • Monitor
