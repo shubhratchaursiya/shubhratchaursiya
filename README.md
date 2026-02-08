@@ -78,21 +78,21 @@ I prefer learning by building labs and practical projects rather than only theor
 
 <p align="center">
 
-<a href="https://github.com/shubhratchaursiya">
+<a href="https://github.com/shubhratchaursiya/shubhratchaursiya">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Student-Management-System&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/shubhratchaursiya">
+<a href="https://github.com/shubhratchaursiya/shubhratchaursiya">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Cybersecurity-Lab&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/shubhratchaursiya">
+<a href="https://github.com/shubhratchaursiya/shubhratchaursiya">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Python-Automation&theme=tokyonight"/>
 </a>
 
 </p>
 
-> (If repo name differs, just change repo name only — everything else auto updates)
+> 
 
 ---
 
