@@ -72,27 +72,118 @@ I prefer learning by building labs and practical projects rather than only theor
 
 ---
 
-## 📂 My Projects (Auto from GitHub)
+## 📂 My Projects Portfolio
 
-### 🔥 Featured Repositories
+<p align="center">
+<b>Hands-on projects in Cybersecurity • DevOps • Cloud • Python Automation</b>
+</p>
+
+---
+
+### 🛡️ Cybersecurity Projects
 
 <p align="center">
 
-<a href="https://github.com/shubhratchaursiya/shubhratchaursiya">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Student-Management-System&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/shubhratchaursiya/shubhratchaursiya">
+<a href="https://github.com/shubhratchaursiya/Cybersecurity-Lab">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Cybersecurity-Lab&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/shubhratchaursiya/shubhratchaursiya">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Python-Automation&theme=tokyonight"/>
+<a href="https://github.com/shubhratchaursiya/Linux-Security-Practice">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Linux-Security-Practice&theme=tokyonight"/>
 </a>
 
 </p>
 
-> 
+🔐 Includes:
+- Linux user & permission management
+- SSH hardening
+- Password policies
+- Log monitoring
+- basic system security practices
+
+---
+
+### ⚙️ Python Automation Projects
+
+<p align="center">
+
+<a href="https://github.com/shubhratchaursiya/Python-Automation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Python-Automation&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/shubhratchaursiya/System-Utility-Scripts">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=System-Utility-Scripts&theme=tokyonight"/>
+</a>
+
+</p>
+
+🐍 Automation tools:
+- password generator
+- file organizer
+- system information script
+- log cleaner
+
+---
+
+### ☁️ Cloud & DevOps Practice
+
+<p align="center">
+
+<a href="https://github.com/shubhratchaursiya/Cloud-Deployment-Lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Cloud-Deployment-Lab&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/shubhratchaursiya/Linux-Server-Setup">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Linux-Server-Setup&theme=tokyonight"/>
+</a>
+
+</p>
+
+☁️ Covers:
+- virtual machine deployment
+- remote SSH login
+- basic server configuration
+- cloud networking basics
+
+---
+
+### ☁️ Cloud & Deployment Projects
+
+<p align="center">
+
+<a href="https://github.com/shubhratchaursiya/Cloud-Deployment-Lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Cloud-Deployment-Lab&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/shubhratchaursiya/Linux-Server-Setup">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Linux-Server-Setup&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/shubhratchaursiya/Smart-Expense-Tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Smart-Expense-Tracker&theme=tokyonight"/>
+</a>
+
+</p>
+
+☁️ Deployment & Infrastructure Work:
+- virtual machine deployment
+- remote SSH login
+- Linux server configuration
+- application hosting
+- database connectivity
+
+💰 **Smart Expense Tracker**
+- tracks daily expenses
+- category based spending
+- database storage
+- real-world user application
+
+
+---
+
+> ⚠️ Important:  
+> If any repository name is different on GitHub, just **change only the repo name in the link**, not the whole code.
+
 
 ---
 
