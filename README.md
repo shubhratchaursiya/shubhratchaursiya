@@ -76,19 +76,19 @@
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/shubhratchaursiya/Two-Device-Ping-Security-Project">
+<a href="https://github.com/shubhratchaursiya/CyberSecurity_">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Two-Device-Ping-Security-Project&theme=tokyonight"/>
 </a>
 </td>
 
 <td align="center">
-<a href="https://github.com/shubhratchaursiya/EV-Charging-Station-Map-Report-Generator">
+<a href="https://github.com/shubhratchaursiya/ElectricVehicle_Shell-Edunet_Internship">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=EV-Charging-Station-Map-Report-Generator&theme=tokyonight"/>
 </a>
 </td>
 
 <td align="center">
-<a href="https://github.com/shubhratchaursiya/Smart-Expense-Tracker">
+<a href="https://github.com/shubhratchaursiya/Smart_Expense_Tracker">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Smart-Expense-Tracker&theme=tokyonight"/>
 </a>
 </td>
@@ -96,19 +96,19 @@
 
 <tr>
 <td align="center">
-<a href="https://github.com/shubhratchaursiya/Student-Management-System">
+<a href="https://github.com/shubhratchaursiya/StudentManagementSystem.JavaProject">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Student-Management-System&theme=tokyonight"/>
 </a>
 </td>
 
 <td align="center">
-<a href="https://github.com/shubhratchaursiya/Exam-Seating-Arrangement-System">
+<a href="https://github.com/shubhratchaursiya/ExamSeatingArrangement_Begineer_Level_Project">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Exam-Seating-Arrangement-System&theme=tokyonight"/>
 </a>
 </td>
 
 <td align="center">
-<a href="https://github.com/shubhratchaursiya/Notepad-Application">
+<a href="https://github.com/shubhratchaursiya/Simple_Notepad">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Notepad-Application&theme=tokyonight"/>
 </a>
 </td>
@@ -116,19 +116,19 @@
 
 <tr>
 <td align="center">
-<a href="https://github.com/shubhratchaursiya/Study-Planner-Web">
+<a href="https://github.com/shubhratchaursiya/Edunet-Foundation">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Study-Planner-Web&theme=tokyonight"/>
 </a>
 </td>
 
 <td align="center">
-<a href="https://github.com/shubhratchaursiya/SAverse-Endless-Runner-Game">
+<a href="https://github.com/shubhratchaursiya/GamingProgrammingwithUnity">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=SAverse-Endless-Runner-Game&theme=tokyonight"/>
 </a>
 </td>
 
 <td align="center">
-<a href="https://github.com/shubhratchaursiya/Dynamic-Pricing-Urban-Parking">
+<a href="https://github.com/shubhratchaursiya/IITGuwahati.pathwaycom">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Dynamic-Pricing-Urban-Parking&theme=tokyonight"/>
 </a>
 </td>
