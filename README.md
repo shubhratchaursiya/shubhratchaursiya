@@ -63,137 +63,81 @@
 
 ---
 
-# 🚀 Project Showcase
+# 🚀 Projects Showcase
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800080&height=2"/>
-</p>
-
-<p align="center">
-<b>Hands-on projects demonstrating my journey from programming fundamentals ➜ real systems ➜ cybersecurity & cloud engineering.</b>
+<b>Hands-on work in Cybersecurity, Cloud, DevOps, Python and Application Development</b>
 </p>
 
 ---
 
-### 🛡️ Two Device Ping Security Project
-<p align="center">
-<img src="https://img.shields.io/badge/Domain-Cybersecurity-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tool-Networking-blue?style=for-the-badge"/>
-</p>
+### 🛡️ Core Projects
 
-Simulated communication between two machines to verify connectivity and analyze packet transfer.
-- ICMP ping testing
-- connectivity troubleshooting
-- packet monitoring concepts
-- basic network diagnostics
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/shubhratchaursiya/Two-Device-Ping-Security-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Two-Device-Ping-Security-Project&theme=tokyonight"/>
+</a>
+</td>
 
----
+<td align="center">
+<a href="https://github.com/shubhratchaursiya/EV-Charging-Station-Map-Report-Generator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=EV-Charging-Station-Map-Report-Generator&theme=tokyonight"/>
+</a>
+</td>
 
-### 📡 EV Charging Station Map Report Generator
-<p align="center">
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?style=for-the-badge"/>
-</p>
+<td align="center">
+<a href="https://github.com/shubhratchaursiya/Smart-Expense-Tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Smart-Expense-Tracker&theme=tokyonight"/>
+</a>
+</td>
+</tr>
 
-Python program that processes EV station datasets and generates mapped reports automatically.
-- data cleaning
-- dataset processing
-- visualization
-- automated reporting
+<tr>
+<td align="center">
+<a href="https://github.com/shubhratchaursiya/Student-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Student-Management-System&theme=tokyonight"/>
+</a>
+</td>
 
----
+<td align="center">
+<a href="https://github.com/shubhratchaursiya/Exam-Seating-Arrangement-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Exam-Seating-Arrangement-System&theme=tokyonight"/>
+</a>
+</td>
 
-### 💰 Smart Expense Tracker
-<p align="center">
-<img src="https://img.shields.io/badge/Java-Application-red?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Database-CRUD-blue?style=for-the-badge&logo=mysql"/>
-</p>
+<td align="center">
+<a href="https://github.com/shubhratchaursiya/Notepad-Application">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Notepad-Application&theme=tokyonight"/>
+</a>
+</td>
+</tr>
 
-A real-world application to track daily expenses and store financial records.
-- expense categorization
-- persistent storage
-- user input validation
-- database connectivity
+<tr>
+<td align="center">
+<a href="https://github.com/shubhratchaursiya/Study-Planner-Web">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Study-Planner-Web&theme=tokyonight"/>
+</a>
+</td>
 
----
+<td align="center">
+<a href="https://github.com/shubhratchaursiya/SAverse-Endless-Runner-Game">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=SAverse-Endless-Runner-Game&theme=tokyonight"/>
+</a>
+</td>
 
-### 🎓 Student Management System
-Desktop system for managing student records and academic data.
-- OOP concepts
-- record storage
-- update & retrieval operations
-- structured application workflow
+<td align="center">
+<a href="https://github.com/shubhratchaursiya/Dynamic-Pricing-Urban-Parking">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Dynamic-Pricing-Urban-Parking&theme=tokyonight"/>
+</a>
+</td>
+</tr>
+</table>
 
----
-
-### 🎯 Guessing Game
-Interactive console game based on random number generation.
-- loops & conditions
-- user interaction
-- input validation
-
----
-
-### 🚨 Emergency War Zone Alert Website
-An informational alert website showing emergency safety instructions.
-- navigation structure
-- page linking
-- content organization
-
----
-
-### 👨‍💻 Personal Portfolio Website
-A website showcasing my profile, skills and work.
-- UI layout
-- presentation design
-- structured information
 
 ---
 
-### 🎮 SAverse — Endless Runner Game
-<p align="center">
-<img src="https://img.shields.io/badge/Unity-Game%20Engine-black?style=for-the-badge&logo=unity"/>
-<img src="https://img.shields.io/badge/C%23-Scripting-purple?style=for-the-badge&logo=csharp"/>
-</p>
-
-A continuous runner game with obstacles and scoring mechanics.
-- character movement
-- collision detection
-- game physics
-- scoring system
-
----
-
-### 🎨 UI/UX Design Collection
-Design prototypes created in Figma.
-- wireframing
-- color hierarchy
-- layout planning
-- usability design
-
----
-
-### 📊 Dynamic Pricing for Urban Parking Lots
-<p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-Project-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge"/>
-</p>
-
-Machine learning model predicting optimal parking prices based on demand.
-- dataset analysis
-- predictive modeling
-- demand estimation
-- data processing
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800080&height=2"/>
-</p>
-
-> These projects reflect my growth from coding basics → building applications → understanding systems → moving toward Cybersecurity, Cloud and DevOps engineering.
-
----
 
 # 🏢 Internships
 
