@@ -159,7 +159,7 @@ I prefer learning by building labs and practical projects rather than only theor
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Linux-Server-Setup&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/shubhratchaursiya/Smart-Expense-Tracker">
+<a href="https://github.com/shubhratchaursiya/Smart_Expense_Tracker">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Smart-Expense-Tracker&theme=tokyonight"/>
 </a>
 
