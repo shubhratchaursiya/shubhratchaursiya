@@ -63,32 +63,135 @@
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Project Showcase
 
-## 🔐 Cybersecurity
-- **Two Device Ping Security Project** → Network connectivity & packet monitoring
-- **EV Charging Station Map Report Generator (Python, Colab)** → Data analysis + mapping
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=800080&height=2"/>
+</p>
 
-## 💻 Software Development
-- Student Management System (Java)
-- Smart Expense Tracker (Java)
-- Notepad Application (Java)
-- Exam Seating Arrangement System (Java)
-- Guessing Game (Java)
+<p align="center">
+<b>Hands-on projects demonstrating my journey from programming fundamentals ➜ real systems ➜ cybersecurity & cloud engineering.</b>
+</p>
 
-## 🌐 Web Development
-- Study Planner Web (HTML, CSS)
-- Emergency War Zone Alert Website (HTML)
-- Personal Portfolio Website
+---
 
-## 🎮 Game Development
-- **SAverse : Endless Runner Game (Unity Engine, C#)**
+### 🛡️ Two Device Ping Security Project
+<p align="center">
+<img src="https://img.shields.io/badge/Domain-Cybersecurity-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool-Networking-blue?style=for-the-badge"/>
+</p>
 
-## 🎨 UI/UX
-- UI & UX Graphical Design Projects (Figma)
+Simulated communication between two machines to verify connectivity and analyze packet transfer.
+- ICMP ping testing
+- connectivity troubleshooting
+- packet monitoring concepts
+- basic network diagnostics
 
-## 📊 Data Science / ML
-- **Dynamic Pricing for Urban Parking Lots (Machine Learning Project)**
+---
+
+### 📡 EV Charging Station Map Report Generator
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?style=for-the-badge"/>
+</p>
+
+Python program that processes EV station datasets and generates mapped reports automatically.
+- data cleaning
+- dataset processing
+- visualization
+- automated reporting
+
+---
+
+### 💰 Smart Expense Tracker
+<p align="center">
+<img src="https://img.shields.io/badge/Java-Application-red?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Database-CRUD-blue?style=for-the-badge&logo=mysql"/>
+</p>
+
+A real-world application to track daily expenses and store financial records.
+- expense categorization
+- persistent storage
+- user input validation
+- database connectivity
+
+---
+
+### 🎓 Student Management System
+Desktop system for managing student records and academic data.
+- OOP concepts
+- record storage
+- update & retrieval operations
+- structured application workflow
+
+---
+
+### 🎯 Guessing Game
+Interactive console game based on random number generation.
+- loops & conditions
+- user interaction
+- input validation
+
+---
+
+### 🚨 Emergency War Zone Alert Website
+An informational alert website showing emergency safety instructions.
+- navigation structure
+- page linking
+- content organization
+
+---
+
+### 👨‍💻 Personal Portfolio Website
+A website showcasing my profile, skills and work.
+- UI layout
+- presentation design
+- structured information
+
+---
+
+### 🎮 SAverse — Endless Runner Game
+<p align="center">
+<img src="https://img.shields.io/badge/Unity-Game%20Engine-black?style=for-the-badge&logo=unity"/>
+<img src="https://img.shields.io/badge/C%23-Scripting-purple?style=for-the-badge&logo=csharp"/>
+</p>
+
+A continuous runner game with obstacles and scoring mechanics.
+- character movement
+- collision detection
+- game physics
+- scoring system
+
+---
+
+### 🎨 UI/UX Design Collection
+Design prototypes created in Figma.
+- wireframing
+- color hierarchy
+- layout planning
+- usability design
+
+---
+
+### 📊 Dynamic Pricing for Urban Parking Lots
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-Project-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge"/>
+</p>
+
+Machine learning model predicting optimal parking prices based on demand.
+- dataset analysis
+- predictive modeling
+- demand estimation
+- data processing
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=800080&height=2"/>
+</p>
+
+> These projects reflect my growth from coding basics → building applications → understanding systems → moving toward Cybersecurity, Cloud and DevOps engineering.
 
 ---
 
