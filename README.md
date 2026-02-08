@@ -63,78 +63,109 @@
 
 ---
 
-# 🚀 Projects Showcase
-
-<p align="center">
-<b>Hands-on work in Cybersecurity, Cloud, DevOps, Python and Application Development</b>
-</p>
-
----
-
-### 🛡️ Core Projects
+## 📂 Projects
 
 <table>
 <tr>
-<td align="center">
-<a href="https://github.com/shubhratchaursiya/CyberSecurity_">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Two-Device-Ping-Security-Project&theme=tokyonight"/>
-</a>
+
+<td>
+
+🔐 **Cybersecurity Project**  
+Real-world defense implementations, Linux security practice, network monitoring.
+
 </td>
 
-<td align="center">
-<a href="https://github.com/shubhratchaursiya/ElectricVehicle_Shell-Edunet_Internship">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=EV-Charging-Station-Map-Report-Generator&theme=tokyonight"/>
-</a>
+<td>
+
+📡 **Two Device Ping Security Project**  
+Connectivity verification & packet testing using ICMP communication.
+
 </td>
 
-<td align="center">
-<a href="https://github.com/shubhratchaursiya/Smart_Expense_Tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Smart-Expense-Tracker&theme=tokyonight"/>
-</a>
+<td>
+
+📊 **EV Charging Station Map Report Generator**  
+Python (Colab) data analysis with automated mapped reports.
+
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
-<a href="https://github.com/shubhratchaursiya/StudentManagementSystem.JavaProject">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Student-Management-System&theme=tokyonight"/>
-</a>
+
+<td>
+
+💰 **Smart Expense Tracker (Java + DB)**  
+Daily expense recording system with database storage and CRUD operations.
+
 </td>
 
-<td align="center">
-<a href="https://github.com/shubhratchaursiya/ExamSeatingArrangement_Begineer_Level_Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Exam-Seating-Arrangement-System&theme=tokyonight"/>
-</a>
+<td>
+
+🎓 **Student Management System (Java)**  
+Maintain and update student records with structured application logic.
+
 </td>
 
-<td align="center">
-<a href="https://github.com/shubhratchaursiya/Simple_Notepad">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Notepad-Application&theme=tokyonight"/>
-</a>
+<td>
+
+📝 **Notepad Application (Java GUI)**  
+Desktop text editor with file open/save functionality.
+
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
-<a href="https://github.com/shubhratchaursiya/Edunet-Foundation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Study-Planner-Web&theme=tokyonight"/>
-</a>
+
+<td>
+
+🏫 **Exam Seating Arrangement System**  
+Automated seat allocation based on constraints and rules.
+
 </td>
 
-<td align="center">
-<a href="https://github.com/shubhratchaursiya/GamingProgrammingwithUnity">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=SAverse-Endless-Runner-Game&theme=tokyonight"/>
-</a>
+<td>
+
+🌐 **Study Planner Web**  
+HTML & CSS website for managing study schedules.
+
 </td>
 
-<td align="center">
-<a href="https://github.com/shubhratchaursiya/IITGuwahati.pathwaycom">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhratchaursiya&repo=Dynamic-Pricing-Urban-Parking&theme=tokyonight"/>
-</a>
+<td>
+
+🚨 **Emergency Alert Website**  
+Informational safety alert web platform.
+
 </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🎮 **SAverse – Endless Runner Game (Unity, C#)**  
+Game mechanics, scoring system & collision detection.
+
+</td>
+
+<td>
+
+🎨 **UI/UX Design Collection**  
+Figma interfaces, layouts, and visual prototypes.
+
+</td>
+
+<td>
+
+📈 **Dynamic Pricing for Urban Parking Lots (ML)**  
+Machine learning model predicting optimal parking pricing.
+
+</td>
+
 </tr>
 </table>
-
 
 ---
 
