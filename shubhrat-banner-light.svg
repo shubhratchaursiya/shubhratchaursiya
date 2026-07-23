@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 740" width="1280" height="740">
+  <defs>
+    <linearGradient id="textGradLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cc0066" />
+      <stop offset="100%" stop-color="#6600cc" />
+    </linearGradient>
+    <style>
+      .terminal { font-family: monospace; fill: #333; font-size: 24px; }
+      .cursor { animation: blink 1s step-end infinite; }
+      .name { font-family: 'Brush Script MT', cursive, sans-serif; font-size: 80px; fill: url(#textGradLight); font-weight: bold; opacity: 0; animation: fadeIn 2s forwards 1s; }
+      .tagline { font-family: sans-serif; font-size: 30px; fill: #555; opacity: 0; animation: fadeIn 2s forwards 2.5s; }
+      .neon { font-family: sans-serif; font-size: 40px; fill: #cc0066; font-weight: bold; animation: flicker 3s infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes fadeIn { to { opacity: 1; } }
+      @keyframes flicker { 0%, 100% { opacity: 1; } 50% { opacity: 0.8; } }
+    </style>
+  </defs>
+
+  <rect width="1280" height="740" fill="#f6f8fa" rx="20" />
+  
+  <text x="50" y="80" class="terminal">user@dev:~$ cat README.md<tspan class="cursor">_</tspan></text>
+  <text x="50" y="250" class="name">Shubhrat Chaursiya</text>
+  <text x="50" y="320" class="tagline">Developer | Creator | Tech Enthusiast</text>
+  <text x="750" y="650" class="neon">KEEP CODING KEEP GROWING</text>
+
+  <g transform="translate(850, 150)">
+    <rect width="300" height="400" fill="#e1e4e8" rx="10"/>
+    <text x="20" y="200" fill="#333" font-family="sans-serif">Image Placeholder</text>
+    <rect x="0" y="0" width="300" height="10" fill="#cc0066" opacity="0.6">
+      <animate attributeName="y" values="0;400;0" dur="3.5s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>

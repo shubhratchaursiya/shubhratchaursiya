@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 600" width="250" height="500">
+  <style>
+    .swing { transform-origin: top center; animation: swing 4s ease-in-out infinite alternate; }
+    .card { fill: #1f1f3a; stroke: #ff66b2; stroke-width: 2; rx: 15; }
+    .text { fill: #fff; font-family: sans-serif; text-anchor: middle; }
+    .shine { fill: url(#shineGrad); opacity: 0.3; }
+    @keyframes swing { 0% { transform: rotate(5deg); } 100% { transform: rotate(-5deg); } }
+  </style>
+  <defs>
+    <linearGradient id="shineGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g class="swing">
+    <path d="M 150 0 L 140 200 L 160 200 Z" fill="#ff66b2" />
+    
+    <rect x="135" y="190" width="30" height="20" fill="#aaa" rx="5" />
+    <circle cx="150" cy="220" r="10" fill="none" stroke="#aaa" stroke-width="4" />
+
+    <g transform="translate(50, 230)">
+      <rect width="200" height="320" class="card" />
+      
+      <circle cx="100" cy="80" r="55" fill="none" stroke="#9933ff" stroke-width="5" />
+      <circle cx="100" cy="80" r="50" fill="#333" />
+      <text x="100" y="85" fill="#fff" font-size="12" class="text">AVATAR</text>
+
+      <text x="100" y="170" font-size="22" font-weight="bold" class="text">Shubhrat Chaursiya</text>
+      <text x="100" y="200" font-size="14" fill="#ff66b2" class="text">@shubhratchaursiya</text>
+      <text x="100" y="230" font-size="14" fill="#aaa" class="text">Developer</text>
+      
+      <rect x="30" y="260" width="140" height="30" fill="#fff" />
+      <path d="M 35 260 v30 M 40 260 v30 M 45 260 v30 M 55 260 v30 M 60 260 v30 M 75 260 v30 M 80 260 v30 M 90 260 v30 M 105 260 v30 M 115 260 v30 M 130 260 v30 M 145 260 v30 M 150 260 v30 M 160 260 v30" stroke="#000" stroke-width="2" />
+
+      <rect width="200" height="320" class="shine" rx="15">
+        <animate attributeName="x" values="-200; 200; -200" dur="5s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 740" width="1280" height="740">
+  <defs>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff66b2" />
+      <stop offset="100%" stop-color="#9933ff" />
+    </linearGradient>
+    <style>
+      .terminal { font-family: monospace; fill: #00ff00; font-size: 24px; }
+      .cursor { animation: blink 1s step-end infinite; }
+      .name { font-family: 'Brush Script MT', cursive, sans-serif; font-size: 80px; fill: url(#textGrad); font-weight: bold; opacity: 0; animation: fadeIn 2s forwards 1s; }
+      .tagline { font-family: sans-serif; font-size: 30px; fill: #fff; opacity: 0; animation: fadeIn 2s forwards 2.5s; }
+      .neon { font-family: sans-serif; font-size: 40px; fill: #ff66b2; filter: drop-shadow(0 0 10px #ff66b2); animation: flicker 3s infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes fadeIn { to { opacity: 1; } }
+      @keyframes flicker { 0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; } 20%, 24%, 55% { opacity: 0.1; } }
+    </style>
+  </defs>
+
+  <rect width="1280" height="740" fill="#0d0d2b" rx="20" />
+  
+  <circle cx="200" cy="600" r="150" fill="#ff66b2" opacity="0.1" filter="blur(50px)" />
+  <circle cx="1080" cy="150" r="200" fill="#9933ff" opacity="0.1" filter="blur(80px)" />
+
+  <text x="50" y="80" class="terminal">user@dev:~$ cat README.md<tspan class="cursor">_</tspan></text>
+
+  <text x="50" y="250" class="name">Shubhrat Chaursiya</text>
+  <text x="50" y="320" class="tagline">Developer | Creator | Tech Enthusiast</text>
+  
+  <text x="750" y="650" class="neon">KEEP CODING KEEP GROWING</text>
+
+  <g transform="translate(850, 150)">
+    <!-- REPLACE THIS RECTANGLE WITH YOUR BASE64 IMAGE TAG -->
+    <rect width="300" height="400" fill="#ffffff" opacity="0.1" rx="10"/>
+    <text x="20" y="200" fill="#fff" font-family="sans-serif">Image Placeholder</text>
+    
+    <rect x="0" y="0" width="300" height="10" fill="#ff66b2" opacity="0.8">
+      <animate attributeName="y" values="0;400;0" dur="3.5s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
