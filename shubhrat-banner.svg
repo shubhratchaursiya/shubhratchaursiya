@@ -26,7 +26,7 @@
   <text x="50" y="250" class="name">Shubhrat Chaursiya</text>
   <text x="50" y="320" class="tagline">Developer | Creator | Tech Enthusiast</text>
   
-  <text x="650" y="750" class="neon">KEEP CODING KEEP GROWING</text>
+  <text x="750" y="600" class="neon">KEEP CODING KEEP GROWING</text>
 
   <g transform="translate(850, 150)">
     <!-- REPLACE THIS RECTANGLE WITH YOUR BASE64 IMAGE TAG -->
