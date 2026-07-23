@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 740" width="1280" height="740" role="img" aria-label="Shubhrat Chaursiya - DevOps Engineer">
+<title>Shubhrat Chaursiya — DevOps Engineer</title>
+<defs>
+<style type="text/css"><![CDATA[
+text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+.title-font { font-family: 'Segoe UI', Impact, sans-serif; font-weight: 900; }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes popIn { 0% { opacity: 0; transform: translateY(14px) scale(.7); } 70% { opacity: 1; transform: translateY(-3px) scale(1.06); } 100% { opacity: 1; transform: translateY(0) scale(1); } }
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+@keyframes floaty { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
+@keyframes floaty2 { 0%, 100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-12px) rotate(6deg); } }
+@keyframes neonPulse { 0%, 100% { opacity: .7; } 50% { opacity: 1; } }
+@keyframes rise { 0% { transform: translateY(0); opacity: 0; } 12% { opacity: .6; } 88% { opacity: .6; } 100% { transform: translateY(-60px); opacity: 0; } }
+
+.ltr { opacity: 0; animation: popIn .5s cubic-bezier(.2,.8,.3,1.3) forwards; transform-box: fill-box; transform-origin: center bottom; }
+.ii, .pill, .soc, .st, .cl { opacity: 0; }
+.pill { transition: transform .2s ease, filter .2s ease; transform-box: fill-box; transform-origin: center; cursor: pointer; }
+.pill:hover { transform: scale(1.08); filter: brightness(0.95); }
+.cur { animation: blink 1s step-end infinite; }
+.fl { animation: floaty 5s ease-in-out infinite; }
+.fl2 { transform-box: fill-box; transform-origin: center; animation: floaty2 4.2s ease-in-out infinite; }
+.np { animation: neonPulse 2.6s ease-in-out infinite; }
+.rp { animation: rise linear infinite; }
+.sep { stroke: #cbd5e1; stroke-width: 1.5; opacity: .7; }
+]]></style>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#f8fafc"/>
+  <stop offset="50%" stop-color="#f1f5f9"/>
+  <stop offset="100%" stop-color="#f8fafc"/>
+</linearGradient>
+
+<linearGradient id="nameg-pink" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#cc0066;#9933ff;#6600cc;#cc0066" dur="7s" repeatCount="indefinite"/></stop>
+  <stop offset="50%"><animate attributeName="stop-color" values="#ff3399;#a78bfa;#cc0066;#ff3399" dur="7s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#6600cc;#cc0066;#9933ff;#6600cc" dur="7s" repeatCount="indefinite"/></stop>
+</linearGradient>
+
+<linearGradient id="borderg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#0284c7" stop-opacity=".4"/>
+  <stop offset="100%" stop-color="#059669" stop-opacity=".4"/>
+</linearGradient>
+
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(2, 132, 199, 0.08)" stroke-width="1"/>
+</pattern>
+
+<clipPath id="cPrompt"><rect x="48" y="48" width="0" height="32"><animate attributeName="width" from="0" to="500" dur="1s" begin=".3s" fill="freeze"/></rect></clipPath>
+<clipPath id="cHi"><rect x="48" y="86" width="0" height="42"><animate attributeName="width" from="0" to="250" dur=".5s" begin="1.2s" fill="freeze"/></rect></clipPath>
+<clipPath id="q1"><rect x="76" y="258" width="0" height="46"><animate attributeName="width" from="0" to="350" dur=".7s" begin="3.4s" fill="freeze"/></rect></clipPath>
+<clipPath id="q2"><rect x="76" y="284" width="0" height="46"><animate attributeName="width" from="0" to="350" dur=".6s" begin="4.2s" fill="freeze"/></rect></clipPath>
+<clipPath id="r1"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;.01;.07;.2;.24;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r2"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;.26;.32;.45;.49;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r3"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;.51;.57;.7;.74;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r4"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;.76;.82;.95;.99;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+
+<linearGradient id="scanEdgeH" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#0284c7" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#059669" />
+  <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="scanTrailH" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#0284c7" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#0284c7" stop-opacity=".15"/>
+</linearGradient>
+
+<clipPath id="bannerBox"><rect x="1" y="1" width="1278" height="738" rx="22"/></clipPath>
+<clipPath id="imgBox"><rect x="750" y="120" width="450" height="500" rx="15"/></clipPath>
+</defs>
+
+<rect width="1280" height="740" rx="22" fill="url(#bg)"/>
+<rect width="1280" height="740" rx="22" fill="url(#grid)"/>
+<rect x="1" y="1" width="1278" height="738" rx="22" fill="none" stroke="url(#borderg)" stroke-width="2"/>
+
+<text clip-path="url(#cPrompt)" x="48" y="69" font-size="15"><tspan fill="#059669" font-weight="bold">shubhrat@matrix-node</tspan><tspan fill="#475569">:~$ </tspan><tspan fill="#334155">cat </tspan><tspan fill="#0284c7">profile.sh</tspan></text>
+<rect x="420" y="56" width="9" height="16" fill="#059669" opacity="0"><animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" begin="1.35s"/></rect>
+
+<text clip-path="url(#cHi)" x="48" y="114" font-size="24" font-weight="bold" fill="#334155">Initiating boot sequence...</text>
+
+<text class="ltr title-font" x="48" y="190" font-size="54" fill="url(#nameg-pink)" style="animation-delay:1.60s; letter-spacing: 1px;">
+  Shubhrat Chaursiya
+</text>
+
+<!-- DevOps Roles -->
+<text clip-path="url(#r1)" x="48" y="241" font-size="18" fill="#0284c7">&gt; DevOps Engineer _</text>
+<text clip-path="url(#r2)" x="48" y="241" font-size="18" fill="#0284c7">&gt; Cloud Architect _</text>
+<text clip-path="url(#r3)" x="48" y="241" font-size="18" fill="#0284c7">&gt; Automation Specialist _</text>
+<text clip-path="url(#r4)" x="48" y="241" font-size="18" fill="#0284c7">&gt; Infrastructure Architect _</text>
+<rect x="48" y="226" width="3" height="18" fill="#0284c7" opacity="0"><animate attributeName="opacity" values="1;0" dur=".8s" repeatCount="indefinite" begin="2.9s"/></rect>
+
+<g class="cl" style="animation:fadeIn .5s ease 3.2s forwards">
+  <rect x="48" y="262" width="380" height="72" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" filter="drop-shadow(0 4px 6px rgba(0,0,0,0.05))"/>
+  <rect x="48" y="266" width="4" height="64" rx="2" fill="#0284c7"/>
+</g>
+<text clip-path="url(#q1)" x="76" y="292" font-size="15" fill="#475569">I don't just write code,</text>
+<text clip-path="url(#q2)" x="76" y="318" font-size="15"><tspan fill="#475569">I engineer </tspan><tspan fill="#059669" font-weight="bold">digital reality.</tspan></text>
+
+<!-- Tech Arsenal: DevOps Focused -->
+<text class="ii" x="48" y="374" font-size="16" fill="#0284c7" font-weight="bold" style="animation:fadeIn .4s ease 4.6s forwards">⚡ Tech Arsenal</text>
+<g class="pill" style="animation:fadeIn .3s ease 4.8s forwards"><rect x="48" y="388" width="75" height="28" rx="14" fill="#ffffff" stroke="#0ea5e9" stroke-width="1.5"/><text x="85" y="406" text-anchor="middle" font-size="13" fill="#0ea5e9" font-weight="bold">Docker</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 4.9s forwards"><rect x="133" y="388" width="95" height="28" rx="14" fill="#ffffff" stroke="#6366f1" stroke-width="1.5"/><text x="180" y="406" text-anchor="middle" font-size="13" fill="#6366f1" font-weight="bold">Kubernetes</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5s forwards"><rect x="238" y="388" width="90" height="28" rx="14" fill="#ffffff" stroke="#8b5cf6" stroke-width="1.5"/><text x="283" y="406" text-anchor="middle" font-size="13" fill="#8b5cf6" font-weight="bold">Terraform</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="338" y="388" width="60" height="28" rx="14" fill="#ffffff" stroke="#ca8a04" stroke-width="1.5"/><text x="368" y="406" text-anchor="middle" font-size="13" fill="#ca8a04" font-weight="bold">AWS</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="48" y="426" width="65" height="28" rx="14" fill="#ffffff" stroke="#059669" stroke-width="1.5"/><text x="80" y="444" text-anchor="middle" font-size="13" fill="#059669" font-weight="bold">CI/CD</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="123" y="426" width="65" height="28" rx="14" fill="#ffffff" stroke="#ca8a04" stroke-width="1.5"/><text x="155" y="444" text-anchor="middle" font-size="13" fill="#ca8a04" font-weight="bold">Linux</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.4s forwards"><rect x="198" y="426" width="75" height="28" rx="14" fill="#ffffff" stroke="#0284c7" stroke-width="1.5"/><text x="235" y="444" text-anchor="middle" font-size="13" fill="#0284c7" font-weight="bold">Python</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.5s forwards"><rect x="283" y="426" width="55" height="28" rx="14" fill="#ffffff" stroke="#e11d48" stroke-width="1.5"/><text x="310" y="444" text-anchor="middle" font-size="13" fill="#e11d48" font-weight="bold">Git</text></g>
+
+<text class="ii" x="48" y="490" font-size="16" fill="#059669" font-weight="bold" style="animation:fadeIn .4s ease 5.6s forwards">⚙ System Info</text>
+<text class="ii" x="48" y="516" font-size="14" style="animation:fadeIn .4s ease 5.8s forwards"><tspan fill="#0284c7">[✓] </tspan><tspan fill="#475569">Architecting scalable and secure infrastructure.</tspan></text>
+<text class="ii" x="48" y="540" font-size="14" style="animation:fadeIn .4s ease 6s forwards"><tspan fill="#0284c7">[✓] </tspan><tspan fill="#475569">Constantly optimizing and automating workflows.</tspan></text>
+<text class="ii" x="48" y="564" font-size="14" style="animation:fadeIn .4s ease 6.2s forwards"><tspan fill="#0284c7">[✓] </tspan><tspan fill="#475569">Turning caffeine into high-performance pipelines.</tspan></text>
+
+<g class="st" style="animation:fadeIn .5s ease 6.4s forwards">
+  <rect x="48" y="586" width="560" height="66" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" filter="drop-shadow(0 4px 6px rgba(0,0,0,0.05))"/>
+  <line x1="188" y1="598" x2="188" y2="640" class="sep"/>
+  <line x1="328" y1="598" x2="328" y2="640" class="sep"/>
+  <line x1="468" y1="598" x2="468" y2="640" class="sep"/>
+  <text x="118" y="612" text-anchor="middle" font-size="12" fill="#64748b">📦 Repos</text>
+  <text x="258" y="612" text-anchor="middle" font-size="12" fill="#64748b">💻 Commits</text>
+  <text x="398" y="612" text-anchor="middle" font-size="12" fill="#64748b">⭐ Stars</text>
+  <text x="538" y="612" text-anchor="middle" font-size="12" fill="#64748b">👥 Followers</text>
+</g>
+<text class="st" x="118" y="640" text-anchor="middle" font-size="19" font-weight="bold" fill="#0284c7" style="animation:fadeIn .4s ease 6.6s forwards">20+</text>
+<text class="st" x="258" y="640" text-anchor="middle" font-size="19" font-weight="bold" fill="#059669" style="animation:fadeIn .4s ease 6.75s forwards">1k+</text>
+<text class="st" x="398" y="640" text-anchor="middle" font-size="19" font-weight="bold" fill="#0ea5e9" style="animation:fadeIn .4s ease 6.9s forwards">100+</text>
+<text class="st" x="538" y="640" text-anchor="middle" font-size="19" font-weight="bold" fill="#0284c7" style="animation:fadeIn .4s ease 7.05s forwards">50+</text>
+
+<g class="fl">
+  <g clip-path="url(#imgBox)">
+    <!-- INSERT YOUR BASE64 IMAGE HERE -->
+    <rect x="750" y="120" width="450" height="500" fill="#e2e8f0" opacity="0.8" />
+    <image x="750" y="120" width="450" height="500" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" />
+  </g>
+</g>
+
+<g class="cl" style="animation:fadeIn .5s ease 1.4s forwards">
+  <rect x="680" y="40" width="310" height="212" rx="12" fill="#ffffff" fill-opacity=".96" stroke="#cbd5e1" stroke-width="1.5" filter="drop-shadow(0 10px 15px rgba(0,0,0,0.1))"/>
+  <rect x="680" y="40" width="310" height="30" rx="12" fill="#f1f5f9"/>
+  <rect x="680" y="58" width="310" height="12" fill="#f1f5f9"/>
+  <circle cx="700" cy="55" r="5" fill="#ef4444"/><circle cx="720" cy="55" r="5" fill="#facc15"/><circle cx="740" cy="55" r="5" fill="#22c55e"/>
+  <text x="835" y="59" text-anchor="middle" font-size="12" fill="#475569">deploy.ts</text>
+</g>
+<g font-size="13">
+  <text class="cl" x="696" y="94" style="animation:fadeIn .3s ease 1.8s forwards"><tspan fill="#7c3aed">async function</tspan><tspan fill="#0284c7"> deploy</tspan><tspan fill="#334155">() {</tspan></text>
+  <text class="cl" x="716" y="116" style="animation:fadeIn .3s ease 2.1s forwards"><tspan fill="#7c3aed">await</tspan><tspan fill="#334155"> cluster.</tspan><tspan fill="#ca8a04">scale</tspan><tspan fill="#334155">();</tspan></text>
+  <text class="cl" x="716" y="138" style="animation:fadeIn .3s ease 2.4s forwards"><tspan fill="#334155">pipeline.</tspan><tspan fill="#ca8a04">run</tspan><tspan fill="#334155">({</tspan></text>
+  <text class="cl" x="736" y="160" style="animation:fadeIn .3s ease 2.7s forwards"><tspan fill="#059669">status</tspan><tspan fill="#334155">: </tspan><tspan fill="#e11d48">'building'</tspan><tspan fill="#334155">,</tspan></text>
+  <text class="cl" x="736" y="182" style="animation:fadeIn .3s ease 2.95s forwards"><tspan fill="#059669">coffee</tspan><tspan fill="#334155">: </tspan><tspan fill="#7c3aed">true</tspan></text>
+  <text class="cl" x="716" y="204" style="animation:fadeIn .3s ease 3.2s forwards"><tspan fill="#334155">});</tspan></text>
+  <text class="cl" x="696" y="226" style="animation:fadeIn .3s ease 3.45s forwards"><tspan fill="#334155">}</tspan><tspan fill="#94a3b8"> // automate</tspan></text>
+</g>
+
+<g class="neon-on">
+  <rect x="1000" y="42" width="250" height="128" rx="14" fill="#ffffff" stroke="#0ea5e9" stroke-width="2" opacity=".8"/>
+  <text class="np" x="1125" y="86" text-anchor="middle" font-size="32" font-weight="bold" fill="#059669" style="animation-delay:.2s">{ ; }</text>
+  <text class="np" x="1125" y="118" text-anchor="middle" font-size="20" font-weight="bold" fill="#0284c7" letter-spacing="2">EAT SLEEP</text>
+  <text class="np" x="1125" y="146" text-anchor="middle" font-size="20" font-weight="bold" fill="#0ea5e9" letter-spacing="1.5" style="animation-delay:1.3s">DEPLOY REPEAT</text>
+</g>
+
+<line x1="48" y1="676" x2="1232" y2="676" class="sep" stroke-dasharray="1184" stroke-dashoffset="1184">
+  <animate attributeName="stroke-dashoffset" from="1184" to="0" dur=".7s" begin="7.2s" fill="freeze"/>
+</line>
+<g class="soc" style="animation:fadeIn .5s ease 7.4s forwards">
+  <g transform="translate(48,692) scale(.8)"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" fill="#64748b"/></g>
+  <text x="74" y="707" font-size="13" fill="#475569">shubhratchaursiya</text>
+  
+  <g transform="translate(230,693) scale(.8)"><rect x="1" y="3" width="22" height="17" rx="3.5" fill="none" stroke="#0284c7" stroke-width="2"/><path d="M2.5 5.5 12 13l9.5-7.5" fill="none" stroke="#0284c7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="256" y="707" font-size="13" fill="#475569">Reach out via GitHub</text>
+  
+  <g transform="translate(420,692) scale(.8)"><rect width="24" height="24" rx="6" fill="none" stroke="#059669" stroke-width="2"/><circle cx="12" cy="12" r="4.6" fill="none" stroke="#059669" stroke-width="2"/><circle cx="18.2" cy="5.8" r="1.5" fill="#059669"/></g>
+  <text x="446" y="707" font-size="13" fill="#475569">Infrastructure operational.</text>
+</g>
+
+<text class="soc" x="1232" y="707" text-anchor="end" font-size="13.5" style="animation:fadeIn .5s ease 7.6s forwards"><tspan fill="#94a3b8">“</tspan><tspan fill="#0284c7">Automation is my superpower.</tspan><tspan fill="#94a3b8">” </tspan><tspan fill="#34d399">✦</tspan></text>
+
+<g clip-path="url(#bannerBox)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="3s" fill="freeze"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-100,0; 1350,0" dur="4s" begin="3s" repeatCount="indefinite"/>
+    <rect x="-80" y="0" width="80" height="740" fill="url(#scanTrailH)"/>
+    <rect x="0" y="0" width="3" height="740" fill="url(#scanEdgeH)" opacity=".4" filter="url(#glow)"/>
+  </g>
+</g>
+</svg>

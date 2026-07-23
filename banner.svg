@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 740" width="1280" height="740" role="img" aria-label="Shubhrat Chaursiya - DevOps Engineer">
+<title>Shubhrat Chaursiya — DevOps Engineer</title>
+<defs>
+<style type="text/css"><![CDATA[
+text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+.title-font { font-family: 'Segoe UI', Impact, sans-serif; font-weight: 900; }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes popIn { 0% { opacity: 0; transform: translateY(14px) scale(.7); } 70% { opacity: 1; transform: translateY(-3px) scale(1.06); } 100% { opacity: 1; transform: translateY(0) scale(1); } }
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+@keyframes floaty { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
+@keyframes floaty2 { 0%, 100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-12px) rotate(6deg); } }
+@keyframes neonPulse { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+@keyframes twinkle { 0%, 100% { opacity: 0; transform: scale(.4); } 50% { opacity: 1; transform: scale(1); } }
+@keyframes rise { 0% { transform: translateY(0); opacity: 0; } 12% { opacity: .75; } 88% { opacity: .75; } 100% { transform: translateY(-60px); opacity: 0; } }
+
+.ltr { opacity: 0; animation: popIn .5s cubic-bezier(.2,.8,.3,1.3) forwards; transform-box: fill-box; transform-origin: center bottom; }
+.ii, .pill, .soc, .st, .cl { opacity: 0; }
+.pill { transition: transform .2s ease, filter .2s ease; transform-box: fill-box; transform-origin: center; cursor: pointer; }
+.pill:hover { transform: scale(1.08); filter: brightness(1.35); }
+.cur { animation: blink 1s step-end infinite; }
+.tw { transform-box: fill-box; transform-origin: center; animation: twinkle 2.6s ease-in-out infinite; }
+.fl { animation: floaty 5s ease-in-out infinite; }
+.fl2 { transform-box: fill-box; transform-origin: center; animation: floaty2 4.2s ease-in-out infinite; }
+.np { animation: neonPulse 2.6s ease-in-out infinite; }
+.rp { animation: rise linear infinite; }
+.sep { stroke: #1e3a8a; stroke-width: 1.5; opacity: .7; }
+]]></style>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#020617"/>
+  <stop offset="50%" stop-color="#0f172a"/>
+  <stop offset="100%" stop-color="#020617"/>
+</linearGradient>
+
+<linearGradient id="nameg-pink" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#ff7eb6;#c084fc;#8b5cf6;#ff7eb6" dur="7s" repeatCount="indefinite"/></stop>
+  <stop offset="50%"><animate attributeName="stop-color" values="#e879f9;#a78bfa;#ff7eb6;#e879f9" dur="7s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#8b5cf6;#ff7eb6;#c084fc;#8b5cf6" dur="7s" repeatCount="indefinite"/></stop>
+</linearGradient>
+
+<linearGradient id="borderg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#00f2fe" stop-opacity=".4"/>
+  <stop offset="100%" stop-color="#34d399" stop-opacity=".4"/>
+</linearGradient>
+
+<radialGradient id="orbB"><stop offset="0%" stop-color="#00f2fe" stop-opacity=".15"/><stop offset="100%" stop-color="#00f2fe" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbG"><stop offset="0%" stop-color="#34d399" stop-opacity=".12"/><stop offset="100%" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+
+<filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glowBig"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(0, 242, 254, 0.05)" stroke-width="1"/>
+</pattern>
+
+<clipPath id="cPrompt"><rect x="48" y="48" width="0" height="32"><animate attributeName="width" from="0" to="500" dur="1s" begin=".3s" fill="freeze"/></rect></clipPath>
+<clipPath id="cHi"><rect x="48" y="86" width="0" height="42"><animate attributeName="width" from="0" to="250" dur=".5s" begin="1.2s" fill="freeze"/></rect></clipPath>
+<clipPath id="q1"><rect x="76" y="258" width="0" height="46"><animate attributeName="width" from="0" to="350" dur=".7s" begin="3.4s" fill="freeze"/></rect></clipPath>
+<clipPath id="q2"><rect x="76" y="284" width="0" height="46"><animate attributeName="width" from="0" to="350" dur=".6s" begin="4.2s" fill="freeze"/></rect></clipPath>
+<clipPath id="r1"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;.01;.07;.2;.24;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r2"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;.26;.32;.45;.49;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r3"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;.51;.57;.7;.74;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r4"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;.76;.82;.95;.99;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+
+<linearGradient id="scanEdgeH" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#00f2fe" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#34d399" />
+  <stop offset="100%" stop-color="#00f2fe" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="scanTrailH" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#00f2fe" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#00f2fe" stop-opacity=".15"/>
+</linearGradient>
+
+<clipPath id="bannerBox"><rect x="1" y="1" width="1278" height="738" rx="22"/></clipPath>
+<clipPath id="imgBox"><rect x="750" y="120" width="450" height="500" rx="15"/></clipPath>
+</defs>
+
+<rect width="1280" height="740" rx="22" fill="url(#bg)"/>
+<rect width="1280" height="740" rx="22" fill="url(#grid)"/>
+<circle cx="200" cy="200" r="280" fill="url(#orbB)"><animate attributeName="r" values="280;320;280" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="1050" cy="550" r="320" fill="url(#orbG)"><animate attributeName="r" values="320;350;320" dur="7s" repeatCount="indefinite"/></circle>
+<rect x="1" y="1" width="1278" height="738" rx="22" fill="none" stroke="url(#borderg)" stroke-width="2"/>
+
+<rect class="rp" x="140" y="620" width="3" height="3" fill="#00f2fe" style="animation-duration:5s"/>
+<rect class="rp" x="420" y="700" width="2" height="2" fill="#34d399" style="animation-duration:6s;animation-delay:1s"/>
+<rect class="rp" x="620" y="660" width="4" height="4" fill="#38bdf8" style="animation-duration:4.6s;animation-delay:2s"/>
+<rect class="rp" x="1180" y="690" width="3" height="3" fill="#00f2fe" style="animation-duration:5.4s;animation-delay:.6s"/>
+<rect class="rp" x="1240" y="360" width="2" height="2" fill="#34d399" style="animation-duration:6.4s;animation-delay:1.6s"/>
+<rect class="rp" x="70" y="420" width="3" height="3" fill="#00f2fe" style="animation-duration:5.8s;animation-delay:2.4s"/>
+
+<text clip-path="url(#cPrompt)" x="48" y="69" font-size="15"><tspan fill="#34d399" font-weight="bold">shubhrat@matrix-node</tspan><tspan fill="#64748b">:~$ </tspan><tspan fill="#e2e8f0">cat </tspan><tspan fill="#00f2fe">profile.sh</tspan></text>
+<rect x="420" y="56" width="9" height="16" fill="#34d399" opacity="0"><animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" begin="1.35s"/></rect>
+
+<text clip-path="url(#cHi)" x="48" y="114" font-size="24" font-weight="bold" fill="#e2e8f0">Initiating boot sequence...</text>
+
+<text class="ltr title-font" x="48" y="190" font-size="54" fill="url(#nameg-pink)" filter="url(#glow)" style="animation-delay:1.60s; letter-spacing: 1px;">
+  Shubhrat Chaursiya
+</text>
+
+<!-- DevOps Roles -->
+<text clip-path="url(#r1)" x="48" y="241" font-size="18" fill="#38bdf8" filter="url(#glow)">&gt; DevOps Engineer _</text>
+<text clip-path="url(#r2)" x="48" y="241" font-size="18" fill="#38bdf8" filter="url(#glow)">&gt; Cloud Architect _</text>
+<text clip-path="url(#r3)" x="48" y="241" font-size="18" fill="#38bdf8" filter="url(#glow)">&gt; Automation Specialist _</text>
+<text clip-path="url(#r4)" x="48" y="241" font-size="18" fill="#38bdf8" filter="url(#glow)">&gt; Infrastructure Architect _</text>
+<rect x="48" y="226" width="3" height="18" fill="#38bdf8" opacity="0"><animate attributeName="opacity" values="1;0" dur=".8s" repeatCount="indefinite" begin="2.9s"/></rect>
+
+<g class="cl" style="animation:fadeIn .5s ease 3.2s forwards">
+  <rect x="48" y="262" width="380" height="72" rx="8" fill="#0f172a" stroke="#1e3a8a" stroke-width="1.5"/>
+  <rect x="48" y="266" width="4" height="64" rx="2" fill="#00f2fe"/>
+</g>
+<text clip-path="url(#q1)" x="76" y="292" font-size="15" fill="#cbd5e1">I don't just write code,</text>
+<text clip-path="url(#q2)" x="76" y="318" font-size="15"><tspan fill="#cbd5e1">I engineer </tspan><tspan fill="#34d399" font-weight="bold">digital reality.</tspan></text>
+<g class="tw" style="animation-delay:.9s"><path d="M400 288l2.4 6.4 6.4 2.4-6.4 2.4-2.4 6.4-2.4-6.4-6.4-2.4 6.4-2.4z" fill="#00f2fe"/></g>
+
+<!-- Tech Arsenal: DevOps Focused -->
+<text class="ii" x="48" y="374" font-size="16" fill="#00f2fe" font-weight="bold" style="animation:fadeIn .4s ease 4.6s forwards">⚡ Tech Arsenal</text>
+<g class="pill" style="animation:fadeIn .3s ease 4.8s forwards"><rect x="48" y="388" width="75" height="28" rx="14" fill="rgba(14,165,233,.15)" stroke="#0ea5e9" stroke-width="1.5"/><text x="85" y="406" text-anchor="middle" font-size="13" fill="#38bdf8" font-weight="bold">Docker</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 4.9s forwards"><rect x="133" y="388" width="95" height="28" rx="14" fill="rgba(99,102,241,.15)" stroke="#6366f1" stroke-width="1.5"/><text x="180" y="406" text-anchor="middle" font-size="13" fill="#818cf8" font-weight="bold">Kubernetes</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5s forwards"><rect x="238" y="388" width="90" height="28" rx="14" fill="rgba(139,92,246,.15)" stroke="#8b5cf6" stroke-width="1.5"/><text x="283" y="406" text-anchor="middle" font-size="13" fill="#a78bfa" font-weight="bold">Terraform</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="338" y="388" width="60" height="28" rx="14" fill="rgba(245,158,11,.15)" stroke="#f59e0b" stroke-width="1.5"/><text x="368" y="406" text-anchor="middle" font-size="13" fill="#fbbf24" font-weight="bold">AWS</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="48" y="426" width="65" height="28" rx="14" fill="rgba(52,211,153,.15)" stroke="#34d399" stroke-width="1.5"/><text x="80" y="444" text-anchor="middle" font-size="13" fill="#6ee7b7" font-weight="bold">CI/CD</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="123" y="426" width="65" height="28" rx="14" fill="rgba(250,204,21,.15)" stroke="#facc15" stroke-width="1.5"/><text x="155" y="444" text-anchor="middle" font-size="13" fill="#fde047" font-weight="bold">Linux</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.4s forwards"><rect x="198" y="426" width="75" height="28" rx="14" fill="rgba(2,132,199,.15)" stroke="#0284c7" stroke-width="1.5"/><text x="235" y="444" text-anchor="middle" font-size="13" fill="#38bdf8" font-weight="bold">Python</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.5s forwards"><rect x="283" y="426" width="55" height="28" rx="14" fill="rgba(244,63,94,.15)" stroke="#f43f5e" stroke-width="1.5"/><text x="310" y="444" text-anchor="middle" font-size="13" fill="#fda4af" font-weight="bold">Git</text></g>
+
+<text class="ii" x="48" y="490" font-size="16" fill="#34d399" font-weight="bold" style="animation:fadeIn .4s ease 5.6s forwards">⚙ System Info</text>
+<text class="ii" x="48" y="516" font-size="14" style="animation:fadeIn .4s ease 5.8s forwards"><tspan fill="#38bdf8">[✓] </tspan><tspan fill="#cbd5e1">Architecting scalable and secure infrastructure.</tspan></text>
+<text class="ii" x="48" y="540" font-size="14" style="animation:fadeIn .4s ease 6s forwards"><tspan fill="#38bdf8">[✓] </tspan><tspan fill="#cbd5e1">Constantly optimizing and automating workflows.</tspan></text>
+<text class="ii" x="48" y="564" font-size="14" style="animation:fadeIn .4s ease 6.2s forwards"><tspan fill="#38bdf8">[✓] </tspan><tspan fill="#cbd5e1">Turning caffeine into high-performance pipelines.</tspan></text>
+
+<g class="st" style="animation:fadeIn .5s ease 6.4s forwards">
+  <rect x="48" y="586" width="560" height="66" rx="12" fill="#0f172a" stroke="#1e3a8a" stroke-width="1.5"/>
+  <line x1="188" y1="598" x2="188" y2="640" class="sep"/>
+  <line x1="328" y1="598" x2="328" y2="640" class="sep"/>
+  <line x1="468" y1="598" x2="468" y2="640" class="sep"/>
+  <text x="118" y="612" text-anchor="middle" font-size="12" fill="#94a3b8">📦 Repos</text>
+  <text x="258" y="612" text-anchor="middle" font-size="12" fill="#94a3b8">💻 Commits</text>
+  <text x="398" y="612" text-anchor="middle" font-size="12" fill="#94a3b8">⭐ Stars</text>
+  <text x="538" y="612" text-anchor="middle" font-size="12" fill="#94a3b8">👥 Followers</text>
+</g>
+<text class="st" x="118" y="640" text-anchor="middle" font-size="19" font-weight="bold" fill="#00f2fe" filter="url(#glow)" style="animation:fadeIn .4s ease 6.6s forwards">20+</text>
+<text class="st" x="258" y="640" text-anchor="middle" font-size="19" font-weight="bold" fill="#34d399" filter="url(#glow)" style="animation:fadeIn .4s ease 6.75s forwards">1k+</text>
+<text class="st" x="398" y="640" text-anchor="middle" font-size="19" font-weight="bold" fill="#38bdf8" filter="url(#glow)" style="animation:fadeIn .4s ease 6.9s forwards">100+</text>
+<text class="st" x="538" y="640" text-anchor="middle" font-size="19" font-weight="bold" fill="#00f2fe" filter="url(#glow)" style="animation:fadeIn .4s ease 7.05s forwards">50+</text>
+
+<g class="fl">
+  <g clip-path="url(#imgBox)">
+    <!-- INSERT YOUR BASE64 IMAGE HERE -->
+    <rect x="750" y="120" width="450" height="500" fill="#020617" opacity="0.4" />
+    <image x="750" y="120" width="450" height="500" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" />
+  </g>
+</g>
+
+<g class="cl" style="animation:fadeIn .5s ease 1.4s forwards">
+  <rect x="680" y="40" width="310" height="212" rx="12" fill="#020617" fill-opacity=".96" stroke="#1e3a8a" stroke-width="1.5"/>
+  <rect x="680" y="40" width="310" height="30" rx="12" fill="#0f172a"/>
+  <rect x="680" y="58" width="310" height="12" fill="#0f172a"/>
+  <circle cx="700" cy="55" r="5" fill="#ef4444"/><circle cx="720" cy="55" r="5" fill="#facc15"/><circle cx="740" cy="55" r="5" fill="#22c55e"/>
+  <text x="835" y="59" text-anchor="middle" font-size="12" fill="#64748b">deploy.ts</text>
+</g>
+<g font-size="13">
+  <text class="cl" x="696" y="94" style="animation:fadeIn .3s ease 1.8s forwards"><tspan fill="#c084fc">async function</tspan><tspan fill="#38bdf8"> deploy</tspan><tspan fill="#e2e8f0">() {</tspan></text>
+  <text class="cl" x="716" y="116" style="animation:fadeIn .3s ease 2.1s forwards"><tspan fill="#c084fc">await</tspan><tspan fill="#e2e8f0"> cluster.</tspan><tspan fill="#fde047">scale</tspan><tspan fill="#e2e8f0">();</tspan></text>
+  <text class="cl" x="716" y="138" style="animation:fadeIn .3s ease 2.4s forwards"><tspan fill="#e2e8f0">pipeline.</tspan><tspan fill="#fde047">run</tspan><tspan fill="#e2e8f0">({</tspan></text>
+  <text class="cl" x="736" y="160" style="animation:fadeIn .3s ease 2.7s forwards"><tspan fill="#34d399">status</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#ff7eb6">'building'</tspan><tspan fill="#e2e8f0">,</tspan></text>
+  <text class="cl" x="736" y="182" style="animation:fadeIn .3s ease 2.95s forwards"><tspan fill="#34d399">coffee</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#c084fc">true</tspan></text>
+  <text class="cl" x="716" y="204" style="animation:fadeIn .3s ease 3.2s forwards"><tspan fill="#e2e8f0">});</tspan></text>
+  <text class="cl" x="696" y="226" style="animation:fadeIn .3s ease 3.45s forwards"><tspan fill="#e2e8f0">}</tspan><tspan fill="#64748b"> // automate</tspan></text>
+</g>
+
+<g class="neon-on">
+  <rect x="1000" y="42" width="250" height="128" rx="14" fill="none" stroke="#00f2fe" stroke-width="2" opacity=".6" filter="url(#glow)"/>
+  <text class="np" x="1125" y="86" text-anchor="middle" font-size="32" font-weight="bold" fill="#34d399" filter="url(#glowBig)" style="animation-delay:.2s">{ ; }</text>
+  <text class="np" x="1125" y="118" text-anchor="middle" font-size="20" font-weight="bold" fill="#00f2fe" filter="url(#glow)" letter-spacing="2">EAT SLEEP</text>
+  <text class="np" x="1125" y="146" text-anchor="middle" font-size="20" font-weight="bold" fill="#38bdf8" filter="url(#glow)" letter-spacing="1.5" style="animation-delay:1.3s">DEPLOY REPEAT</text>
+</g>
+
+<line x1="48" y1="676" x2="1232" y2="676" class="sep" stroke-dasharray="1184" stroke-dashoffset="1184">
+  <animate attributeName="stroke-dashoffset" from="1184" to="0" dur=".7s" begin="7.2s" fill="freeze"/>
+</line>
+<g class="soc" style="animation:fadeIn .5s ease 7.4s forwards">
+  <g transform="translate(48,692) scale(.8)"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" fill="#94a3b8"/></g>
+  <text x="74" y="707" font-size="13" fill="#cbd5e1">shubhratchaursiya</text>
+  
+  <g transform="translate(230,693) scale(.8)"><rect x="1" y="3" width="22" height="17" rx="3.5" fill="none" stroke="#00f2fe" stroke-width="2"/><path d="M2.5 5.5 12 13l9.5-7.5" fill="none" stroke="#00f2fe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="256" y="707" font-size="13" fill="#cbd5e1">Reach out via GitHub</text>
+  
+  <g transform="translate(420,692) scale(.8)"><rect width="24" height="24" rx="6" fill="none" stroke="#34d399" stroke-width="2"/><circle cx="12" cy="12" r="4.6" fill="none" stroke="#34d399" stroke-width="2"/><circle cx="18.2" cy="5.8" r="1.5" fill="#34d399"/></g>
+  <text x="446" y="707" font-size="13" fill="#cbd5e1">Infrastructure operational.</text>
+</g>
+
+<text class="soc" x="1232" y="707" text-anchor="end" font-size="13.5" style="animation:fadeIn .5s ease 7.6s forwards"><tspan fill="#94a3b8">“</tspan><tspan fill="#00f2fe">Automation is my superpower.</tspan><tspan fill="#94a3b8">” </tspan><tspan fill="#34d399">✦</tspan></text>
+
+<g clip-path="url(#bannerBox)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="3s" fill="freeze"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-100,0; 1350,0" dur="4s" begin="3s" repeatCount="indefinite"/>
+    <rect x="-80" y="0" width="80" height="740" fill="url(#scanTrailH)"/>
+    <rect x="0" y="0" width="3" height="740" fill="url(#scanEdgeH)" opacity=".8" filter="url(#glow)"/>
+  </g>
+</g>
+</svg>

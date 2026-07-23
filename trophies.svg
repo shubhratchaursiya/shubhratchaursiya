@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" width="500" height="220">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+    <linearGradient id="glassGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.2" />
+      <stop offset="20%" stop-color="#00f2fe" stop-opacity="0.02" />
+      <stop offset="80%" stop-color="#00f2fe" stop-opacity="0.02" />
+      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0.15" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <style>
+      .bg { fill: #020617; stroke: url(#borderGrad); stroke-width: 1.5; rx: 12px; }
+      .title { fill: #00f2fe; font-family: 'Segoe UI', sans-serif; font-size: 17px; font-weight: 700; letter-spacing: 0.5px; }
+      .label { fill: #cbd5e1; font-family: 'Segoe UI', sans-serif; font-size: 12px; font-weight: 600; text-anchor: middle; }
+      .sub-label { font-family: 'Segoe UI', sans-serif; font-size: 10px; font-weight: bold; text-anchor: middle; }
+      .base-plate { fill: #0f172a; stroke: #34d399; stroke-width: 1; }
+      .glass-tube { fill: url(#glassGrad); rx: 35px; }
+      .float-1 { animation: float 3s ease-in-out infinite; }
+      .float-2 { animation: float 3.5s ease-in-out infinite 0.5s; }
+      .float-3 { animation: float 3.2s ease-in-out infinite 1s; }
+      .float-4 { animation: float 3.8s ease-in-out infinite 0.2s; }
+      .fade-in { opacity: 0; animation: fadeIn 1s ease-out forwards; }
+      @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-8px); } }
+      @keyframes fadeIn { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="496" height="216" class="bg" />
+  <text x="25" y="35" class="title">🏆 3D Trophy Showcase</text>
+
+  <g class="fade-in">
+    <!-- TROPHY 1: MINT (STARS) -->
+    <g transform="translate(85, 120)">
+      <ellipse cx="0" cy="55" rx="35" ry="10" class="base-plate" />
+      <rect x="-35" y="-50" width="70" height="105" class="glass-tube" />
+      <g class="float-1" filter="url(#glow)">
+        <polygon points="-15,15 15,15 20,20 -20,20" fill="#10b981" />
+        <polygon points="-20,20 20,20 20,25 -20,25" fill="#047857" />
+        <rect x="-4" y="0" width="8" height="15" fill="#059669" />
+        <path d="M-20,-20 L20,-20 C20,5 -20,5 -20,-20 Z" fill="#34d399" />
+        <path d="M-14,-20 L14,-20 C14,0 -14,0 -14,-20 Z" fill="#6ee7b7" />
+        <path d="M-20,-15 C-35,-15 -30,5 -15,0" fill="none" stroke="#059669" stroke-width="3"/>
+        <path d="M20,-15 C35,-15 30,5 15,0" fill="none" stroke="#059669" stroke-width="3"/>
+      </g>
+      <text x="0" y="80" class="label">S-Rank</text>
+      <text x="0" y="95" class="sub-label" style="fill: #34d399;">STARS</text>
+    </g>
+
+    <!-- TROPHY 2: CYAN (COMMITS) -->
+    <g transform="translate(195, 120)">
+      <ellipse cx="0" cy="55" rx="35" ry="10" class="base-plate" style="stroke: #00f2fe;" />
+      <rect x="-35" y="-50" width="70" height="105" class="glass-tube" />
+      <g class="float-2" filter="url(#glow)">
+        <polygon points="-15,15 15,15 20,20 -20,20" fill="#0284c7" />
+        <polygon points="-20,20 20,20 20,25 -20,25" fill="#0369a1" />
+        <rect x="-4" y="0" width="8" height="15" fill="#0ea5e9" />
+        <path d="M-20,-20 L20,-20 C20,5 -20,5 -20,-20 Z" fill="#38bdf8" />
+        <path d="M-14,-20 L14,-20 C14,0 -14,0 -14,-20 Z" fill="#7dd3fc" />
+        <path d="M-20,-15 C-35,-15 -30,5 -15,0" fill="none" stroke="#0ea5e9" stroke-width="3"/>
+        <path d="M20,-15 C35,-15 30,5 15,0" fill="none" stroke="#0ea5e9" stroke-width="3"/>
+      </g>
+      <text x="0" y="80" class="label">A-Rank</text>
+      <text x="0" y="95" class="sub-label" style="fill: #38bdf8;">COMMITS</text>
+    </g>
+
+    <!-- TROPHY 3: COBALT (PRs) -->
+    <g transform="translate(305, 120)">
+      <ellipse cx="0" cy="55" rx="35" ry="10" class="base-plate" style="stroke: #3b82f6;" />
+      <rect x="-35" y="-50" width="70" height="105" class="glass-tube" />
+      <g class="float-3" filter="url(#glow)">
+        <polygon points="-15,15 15,15 20,20 -20,20" fill="#2563eb" />
+        <polygon points="-20,20 20,20 20,25 -20,25" fill="#1d4ed8" />
+        <rect x="-4" y="0" width="8" height="15" fill="#3b82f6" />
+        <path d="M-20,-20 L20,-20 C20,5 -20,5 -20,-20 Z" fill="#60a5fa" />
+        <path d="M-14,-20 L14,-20 C14,0 -14,0 -14,-20 Z" fill="#93c5fd" />
+        <path d="M-20,-15 C-35,-15 -30,5 -15,0" fill="none" stroke="#3b82f6" stroke-width="3"/>
+        <path d="M20,-15 C35,-15 30,5 15,0" fill="none" stroke="#3b82f6" stroke-width="3"/>
+      </g>
+      <text x="0" y="80" class="label">A-Rank</text>
+      <text x="0" y="95" class="sub-label" style="fill: #60a5fa;">PULL REQS</text>
+    </g>
+
+    <!-- TROPHY 4: SILVER (FOLLOWERS) -->
+    <g transform="translate(415, 120)">
+      <ellipse cx="0" cy="55" rx="35" ry="10" class="base-plate" style="stroke: #cbd5e1;" />
+      <rect x="-35" y="-50" width="70" height="105" class="glass-tube" />
+      <g class="float-4" filter="url(#glow)">
+        <polygon points="-15,15 15,15 20,20 -20,20" fill="#64748b" />
+        <polygon points="-20,20 20,20 20,25 -20,25" fill="#475569" />
+        <rect x="-4" y="0" width="8" height="15" fill="#94a3b8" />
+        <path d="M-20,-20 L20,-20 C20,5 -20,5 -20,-20 Z" fill="#cbd5e1" />
+        <path d="M-14,-20 L14,-20 C14,0 -14,0 -14,-20 Z" fill="#e2e8f0" />
+        <path d="M-20,-15 C-35,-15 -30,5 -15,0" fill="none" stroke="#94a3b8" stroke-width="3"/>
+        <path d="M20,-15 C35,-15 30,5 15,0" fill="none" stroke="#94a3b8" stroke-width="3"/>
+      </g>
+      <text x="0" y="80" class="label">B-Rank</text>
+      <text x="0" y="95" class="sub-label" style="fill: #cbd5e1;">FOLLOWERS</text>
+    </g>
+  </g>
+</svg>

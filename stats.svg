@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 250" width="500" height="250">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+    <style>
+      .bg { fill: #020617; stroke: url(#borderGrad); stroke-width: 1.5; rx: 12px; }
+      .title { fill: #34d399; font-family: 'Segoe UI', sans-serif; font-size: 17px; font-weight: 700; letter-spacing: 0.5px; }
+      .stat-text { fill: #cbd5e1; font-family: 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; }
+      .stat-val { font-family: monospace; font-size: 14px; font-weight: bold; text-anchor: end; }
+      .rank-letter { fill: #34d399; font-family: 'Segoe UI', sans-serif; font-size: 46px; font-weight: 800; text-anchor: middle; dominant-baseline: central; filter: drop-shadow(0 0 8px rgba(52, 211, 153, 0.6)); }
+      .rank-label { fill: #00f2fe; font-family: 'Segoe UI', sans-serif; font-size: 10px; font-weight: bold; text-anchor: middle; letter-spacing: 2px;}
+      .val-1 { fill: #facc15; } .val-2 { fill: #00f2fe; } .val-3 { fill: #34d399; } .val-4 { fill: #38bdf8; } .val-5 { fill: #f43f5e; }
+      .ring-bg { fill: none; stroke: #0f172a; stroke-width: 8; }
+      .ring-fg { fill: none; stroke: url(#ringGrad); stroke-width: 8; stroke-linecap: round; stroke-dasharray: 251.2; stroke-dashoffset: 251.2; animation: fillRing 2s ease-out forwards 0.5s; }
+      .fade-in { opacity: 0; animation: fadeIn 0.8s ease-out forwards; }
+      @keyframes fillRing { to { stroke-dashoffset: 50.24; } } 
+      @keyframes fadeIn { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="496" height="246" class="bg" />
+  <text x="25" y="40" class="title">⚡ Shubhrat's GitHub Stats</text>
+
+  <text x="25" y="90" class="stat-text fade-in" style="animation-delay: 0.1s;">⭐ Total Stars Earned:</text>
+  <text x="280" y="90" class="stat-val val-1 fade-in" style="animation-delay: 0.1s;">128+</text>
+  <text x="25" y="120" class="stat-text fade-in" style="animation-delay: 0.2s;">💻 Total Commits:</text>
+  <text x="280" y="120" class="stat-val val-2 fade-in" style="animation-delay: 0.2s;">1,024+</text>
+  <text x="25" y="150" class="stat-text fade-in" style="animation-delay: 0.3s;">📦 Public Repos:</text>
+  <text x="280" y="150" class="stat-val val-3 fade-in" style="animation-delay: 0.3s;">15+</text>
+  <text x="25" y="180" class="stat-text fade-in" style="animation-delay: 0.4s;">👥 Followers:</text>
+  <text x="280" y="180" class="stat-val val-4 fade-in" style="animation-delay: 0.4s;">42+</text>
+  <text x="25" y="210" class="stat-text fade-in" style="animation-delay: 0.5s;">🔥 Highest Streak:</text>
+  <text x="280" y="210" class="stat-val val-5 fade-in" style="animation-delay: 0.5s;">14</text>
+
+  <g transform="translate(390, 130)">
+    <circle cx="0" cy="0" r="40" class="ring-bg" />
+    <circle cx="0" cy="0" r="40" class="ring-fg" transform="rotate(-90)" />
+    <text x="0" y="-3" class="rank-letter">S</text>
+    <text x="0" y="27" class="rank-label">RANK</text>
+  </g>
+</svg>

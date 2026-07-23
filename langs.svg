@@ -1,129 +1,145 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 282" width="420" height="282" role="img" aria-label="DevOps Tech Stack">
-<defs>
-<style><![CDATA[
-text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
-@keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
-@keyframes shineX{0%{transform:translateX(-140px)}60%,100%{transform:translateX(460px)}}
-.row{opacity:0;animation:fadeUp .5s ease forwards}
-.sh{animation:shineX 4s ease-in-out 2.2s infinite}
-]]></style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 320" width="500" height="320">
+  <defs>
+    <!-- Card Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
 
-<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0%">
-<animate attributeName="stop-color"
-values="#ff7eb6;#c084fc;#ff7eb6"
-dur="6s"
-repeatCount="indefinite"/>
-</stop>
-<stop offset="100%">
-<animate attributeName="stop-color"
-values="#c084fc;#ff7eb6;#c084fc"
-dur="6s"
-repeatCount="indefinite"/>
-</stop>
-</linearGradient>
+    <!-- Sci-Fi Glass Tube Gradient -->
+    <linearGradient id="glassGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.25" />
+      <stop offset="20%" stop-color="#ffffff" stop-opacity="0.03" />
+      <stop offset="80%" stop-color="#ffffff" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.15" />
+    </linearGradient>
 
-<linearGradient id="shg" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0%" stop-color="#fff" stop-opacity="0"/>
-<stop offset="50%" stop-color="#fff" stop-opacity=".08"/>
-<stop offset="100%" stop-color="#fff" stop-opacity="0"/>
-</linearGradient>
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
 
-<clipPath id="cardc">
-<rect x="1" y="1" width="418" height="280" rx="14"/>
-</clipPath>
+    <style>
+      .bg { fill: #020617; stroke: url(#borderGrad); stroke-width: 1.5; rx: 12px; }
+      .title { fill: #00f2fe; font-family: 'Segoe UI', sans-serif; font-size: 17px; font-weight: 700; letter-spacing: 0.5px; }
+      .label { fill: #cbd5e1; font-family: 'Segoe UI', sans-serif; font-size: 11px; font-weight: 600; text-anchor: middle; }
+      .sub-label { font-family: monospace; font-size: 10px; font-weight: bold; text-anchor: middle; }
+      
+      .base-plate { fill: #0f172a; stroke: #34d399; stroke-width: 1; }
+      .glass-tube { fill: url(#glassGrad); rx: 15px; }
 
-<clipPath id="stackc">
-<rect x="20" y="58" width="0" height="11" rx="5.5">
-<animate attributeName="width"
-from="0"
-to="380"
-dur="1.4s"
-begin=".4s"
-fill="freeze"/>
-</rect>
-</clipPath>
+      /* Floating Anims */
+      .f-1 { animation: float 3s ease-in-out infinite; }
+      .f-2 { animation: float 3.5s ease-in-out infinite 0.4s; }
+      .f-3 { animation: float 3.2s ease-in-out infinite 0.8s; }
+      .f-4 { animation: float 3.7s ease-in-out infinite 0.2s; }
+      .f-5 { animation: float 3.4s ease-in-out infinite 0.6s; }
 
-</defs>
+      .fade-in { opacity: 0; animation: fadeIn 1s ease-out forwards; }
 
-<rect x="1" y="1"
-width="418"
-height="280"
-rx="14"
-fill="#170e28"
-stroke="url(#tg)"
-stroke-width="1.5"/>
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-6px); }
+      }
+      @keyframes fadeIn { to { opacity: 1; } }
+    </style>
+  </defs>
 
-<text x="20"
-y="34"
-font-size="16"
-font-weight="bold"
-fill="url(#tg)">
-⚙ DevOps Tech Stack
-</text>
+  <!-- Background Box -->
+  <rect x="2" y="2" width="496" height="316" class="bg" />
 
-<!-- Top Stack -->
-<g clip-path="url(#stackc)">
-<rect x="20" y="58" width="114" height="11" fill="#2496ED"/>
-<rect x="134" y="58" width="95" height="11" fill="#326CE5"/>
-<rect x="229" y="58" width="76" height="11" fill="#FF9900"/>
-<rect x="305" y="58" width="57" height="11" fill="#7B42BC"/>
-<rect x="362" y="58" width="38" height="11" fill="#D33833"/>
-</g>
+  <!-- Title -->
+  <text x="25" y="35" class="title">⚙ 3D DevOps &amp; Java Tech Stack</text>
 
-<!-- Docker -->
-<g class="row" style="animation-delay:.9s">
-<circle cx="26" cy="91" r="5" fill="#2496ED"/>
-<text x="40" y="96" font-size="13" fill="#e6edf3" font-weight="bold">Docker</text>
-<text x="396" y="96" text-anchor="end" font-size="13" fill="#2496ED" font-weight="bold">30%</text>
-<rect x="40" y="104" width="268" height="9" rx="4.5" fill="#241740"/>
-<rect x="40" y="104" width="80.4" height="9" rx="4.5" fill="#2496ED">
-<animate attributeName="width" from="0" to="80.4" dur="1.1s" begin="1.05s" fill="freeze"/>
-</rect>
-</g>
+  <g class="fade-in">
+    <!-- ========================================== -->
+    <!-- 1. DOCKER (Cyan 3D Hex/Block)              -->
+    <!-- ========================================== -->
+    <g transform="translate(55, 135)">
+      <ellipse cx="0" cy="75" rx="32" ry="9" class="base-plate" />
+      <rect x="-32" y="-20" width="64" height="100" class="glass-tube" />
+      
+      <g class="f-1" filter="url(#glow)">
+        <!-- 3D Isometric Crystal Block -->
+        <path d="M-18,25 L0,15 L18,25 L0,35 Z" fill="#0284c7" />
+        <path d="M-18,25 L-18,40 L0,50 L0,35 Z" fill="#0369a1" />
+        <path d="M18,25 L18,40 L0,50 L0,35 Z" fill="#38bdf8" />
+      </g>
+      
+      <text x="0" y="102" class="label">Docker</text>
+      <text x="0" y="115" class="sub-label" style="fill: #38bdf8;">30%</text>
+    </g>
 
-<!-- Kubernetes -->
-<g class="row" style="animation-delay:1.25s">
-<circle cx="26" cy="133" r="5" fill="#326CE5"/>
-<text x="40" y="138" font-size="13" fill="#e6edf3" font-weight="bold">Kubernetes</text>
-<text x="396" y="138" text-anchor="end" font-size="13" fill="#326CE5" font-weight="bold">25%</text>
-<rect x="40" y="146" width="268" height="9" rx="4.5" fill="#241740"/>
-<rect x="40" y="146" width="67" height="9" rx="4.5" fill="#326CE5">
-<animate attributeName="width" from="0" to="67" dur="1.1s" begin="1.4s" fill="freeze"/>
-</rect>
-</g>
+    <!-- ========================================== -->
+    <!-- 2. KUBERNETES (Blue 3D Core)               -->
+    <!-- ========================================== -->
+    <g transform="translate(143, 135)">
+      <ellipse cx="0" cy="75" rx="32" ry="9" class="base-plate" style="stroke: #3b82f6;" />
+      <rect x="-32" y="-20" width="64" height="100" class="glass-tube" />
+      
+      <g class="f-2" filter="url(#glow)">
+        <path d="M-18,25 L0,15 L18,25 L0,35 Z" fill="#1d4ed8" />
+        <path d="M-18,25 L-18,40 L0,50 L0,35 Z" fill="#1e40af" />
+        <path d="M18,25 L18,40 L0,50 L0,35 Z" fill="#60a5fa" />
+      </g>
 
-<!-- AWS -->
-<g class="row" style="animation-delay:1.6s">
-<circle cx="26" cy="175" r="5" fill="#FF9900"/>
-<text x="40" y="180" font-size="13" fill="#e6edf3" font-weight="bold">AWS</text>
-<text x="396" y="180" text-anchor="end" font-size="13" fill="#FF9900" font-weight="bold">20%</text>
-<rect x="40" y="188" width="268" height="9" rx="4.5" fill="#241740"/>
-<rect x="40" y="188" width="53.6" height="9" rx="4.5" fill="#FF9900">
-<animate attributeName="width" from="0" to="53.6" dur="1.1s" begin="1.75s" fill="freeze"/>
-</rect>
-</g>
+      <text x="0" y="102" class="label">Kubernetes</text>
+      <text x="0" y="115" class="sub-label" style="fill: #60a5fa;">25%</text>
+    </g>
 
-<!-- Terraform -->
-<g class="row" style="animation-delay:1.95s">
-<circle cx="26" cy="217" r="5" fill="#7B42BC"/>
-<text x="40" y="222" font-size="13" fill="#e6edf3" font-weight="bold">Terraform</text>
-<text x="396" y="222" text-anchor="end" font-size="13" fill="#7B42BC" font-weight="bold">15%</text>
-<rect x="40" y="230" width="268" height="9" rx="4.5" fill="#241740"/>
-<rect x="40" y="230" width="40.2" height="9" rx="4.5" fill="#7B42BC">
-<animate attributeName="width" from="0" to="40.2" dur="1.1s" begin="2.1s" fill="freeze"/>
-</rect>
-</g>
+    <!-- ========================================== -->
+    <!-- 3. AWS (Orange Cloud Monolith)             -->
+    <!-- ========================================== -->
+    <g transform="translate(231, 135)">
+      <ellipse cx="0" cy="75" rx="32" ry="9" class="base-plate" style="stroke: #f59e0b;" />
+      <rect x="-32" y="-20" width="64" height="100" class="glass-tube" />
+      
+      <g class="f-3" filter="url(#glow)">
+        <path d="M-18,25 L0,15 L18,25 L0,35 Z" fill="#d97706" />
+        <path d="M-18,25 L-18,40 L0,50 L0,35 Z" fill="#b45309" />
+        <path d="M18,25 L18,40 L0,50 L0,35 Z" fill="#fbbf24" />
+      </g>
 
-<!-- Shine -->
-<g clip-path="url(#cardc)">
-<rect class="sh"
-x="0"
-y="0"
-width="100"
-height="282"
-fill="url(#shg)"
-transform="skewX(-15)"/>
-</g>
+      <text x="0" y="102" class="label">AWS Cloud</text>
+      <text x="0" y="115" class="sub-label" style="fill: #fbbf24;">20%</text>
+    </g>
 
+    <!-- ========================================== -->
+    <!-- 4. TERRAFORM (Purple Infrastructure)       -->
+    <!-- ========================================== -->
+    <g transform="translate(319, 135)">
+      <ellipse cx="0" cy="75" rx="32" ry="9" class="base-plate" style="stroke: #8b5cf6;" />
+      <rect x="-32" y="-20" width="64" height="100" class="glass-tube" />
+      
+      <g class="f-4" filter="url(#glow)">
+        <path d="M-18,25 L0,15 L18,25 L0,35 Z" fill="#7c3aed" />
+        <path d="M-18,25 L-18,40 L0,50 L0,35 Z" fill="#5b21b6" />
+        <path d="M18,25 L18,40 L0,50 L0,35 Z" fill="#a78bfa" />
+      </g>
+
+      <text x="0" y="102" class="label">Terraform</text>
+      <text x="0" y="115" class="sub-label" style="fill: #a78bfa;">15%</text>
+    </g>
+
+    <!-- ========================================== -->
+    <!-- 5. JAVA (Ruby Red 3D Module Added)         -->
+    <!-- ========================================== -->
+    <g transform="translate(407, 135)">
+      <ellipse cx="0" cy="75" rx="32" ry="9" class="base-plate" style="stroke: #f43f5e;" />
+      <rect x="-32" y="-20" width="64" height="100" class="glass-tube" />
+      
+      <g class="f-5" filter="url(#glow)">
+        <path d="M-18,25 L0,15 L18,25 L0,35 Z" fill="#e11d48" />
+        <path d="M-18,25 L-18,40 L0,50 L0,35 Z" fill="#be123c" />
+        <path d="M18,25 L18,40 L0,50 L0,35 Z" fill="#fb7185" />
+      </g>
+
+      <text x="0" y="102" class="label">Java</text>
+      <text x="0" y="115" class="sub-label" style="fill: #fb7185;">10%</text>
+    </g>
+  </g>
 </svg>
