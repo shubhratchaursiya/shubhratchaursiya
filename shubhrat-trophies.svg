@@ -1,0 +1,77 @@
+<!-- ================= CARD 1 ================= -->
+<g class="cell" style="animation-delay:0.30s">
+  <rect x="12" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#2496ED" stroke-opacity=".65" stroke-width="1.3"/>
+  <text x="96" y="52" text-anchor="middle" font-size="30">⚙️</text>
+  <text class="rk" x="164" y="40" text-anchor="end" font-size="24" font-weight="bold" fill="#2496ED">SSS</text>
+  <text x="96" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">DevOps Engineer</text>
+  <text x="96" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Docker • Kubernetes • CI/CD</text>
+  <rect x="30" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+  <rect x="30" y="124" width="0" height="5" rx="2.5" fill="#2496ED">
+    <animate attributeName="width" from="0" to="132" dur="1s" begin=".60s" fill="freeze"/>
+  </rect>
+</g>
+
+<!-- ================= CARD 2 ================= -->
+<g class="cell" style="animation-delay:0.48s">
+  <rect x="192" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#FF9900" stroke-opacity=".65" stroke-width="1.3"/>
+  <text x="276" y="52" text-anchor="middle" font-size="30">☁️</text>
+  <text class="rk" x="344" y="40" text-anchor="end" font-size="28" font-weight="bold" fill="#FF9900">SS</text>
+  <text x="276" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Cloud Architect</text>
+  <text x="276" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">AWS • EC2 • IAM • VPC</text>
+  <rect x="210" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+  <rect x="210" y="124" width="0" height="5" rx="2.5" fill="#FF9900">
+    <animate attributeName="width" from="0" to="132" dur="1s" begin=".78s" fill="freeze"/>
+  </rect>
+</g>
+
+<!-- ================= CARD 3 ================= -->
+<g class="cell" style="animation-delay:0.66s">
+  <rect x="372" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#FCC624" stroke-opacity=".65" stroke-width="1.3"/>
+  <text x="456" y="52" text-anchor="middle" font-size="30">🐧</text>
+  <text class="rk" x="524" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#FCC624">S</text>
+  <text x="456" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Linux Expert</text>
+  <text x="456" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">RHCSA • Bash • Shell</text>
+  <rect x="390" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+  <rect x="390" y="124" width="0" height="5" rx="2.5" fill="#FCC624">
+    <animate attributeName="width" from="0" to="132" dur="1s" begin=".96s" fill="freeze"/>
+  </rect>
+</g>
+
+<!-- ================= CARD 4 ================= -->
+<g class="cell" style="animation-delay:0.84s">
+  <rect x="552" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#7B42BC" stroke-opacity=".65" stroke-width="1.3"/>
+  <text x="636" y="52" text-anchor="middle" font-size="30">🏗️</text>
+  <text class="rk" x="704" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#7B42BC">A</text>
+  <text x="636" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Infrastructure</text>
+  <text x="636" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Terraform • Ansible</text>
+  <rect x="570" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+  <rect x="570" y="124" width="0" height="5" rx="2.5" fill="#7B42BC">
+    <animate attributeName="width" from="0" to="132" dur="1s" begin="1.14s" fill="freeze"/>
+  </rect>
+</g>
+
+<!-- ================= CARD 5 ================= -->
+<g class="cell" style="animation-delay:1.02s">
+  <rect x="732" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#06B6D4" stroke-opacity=".65" stroke-width="1.3"/>
+  <text x="816" y="52" text-anchor="middle" font-size="30">🛡️</text>
+  <text class="rk" x="884" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#06B6D4">A</text>
+  <text x="816" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Cybersecurity</text>
+  <text x="816" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Security • Networking</text>
+  <rect x="750" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+  <rect x="750" y="124" width="0" height="5" rx="2.5" fill="#06B6D4">
+    <animate attributeName="width" from="0" to="132" dur="1s" begin="1.32s" fill="freeze"/>
+  </rect>
+</g>
+
+<!-- ================= CARD 6 ================= -->
+<g class="cell" style="animation-delay:1.20s">
+  <rect x="912" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#22C55E" stroke-opacity=".65" stroke-width="1.3"/>
+  <text x="996" y="52" text-anchor="middle" font-size="30">🚀</text>
+  <text class="rk" x="1064" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#22C55E">A</text>
+  <text x="996" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Open Source</text>
+  <text x="996" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Git • GitHub • Projects</text>
+  <rect x="930" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+  <rect x="930" y="124" width="0" height="5" rx="2.5" fill="#22C55E">
+    <animate attributeName="width" from="0" to="132" dur="1s" begin="1.50s" fill="freeze"/>
+  </rect>
+</g>
