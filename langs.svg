@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 320" width="500" height="320">
+  <defs>
+    <!-- Card Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+
+    <!-- Sci-Fi Glass Tube Gradient -->
+    <linearGradient id="glassGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.25" />
+      <stop offset="20%" stop-color="#ffffff" stop-opacity="0.03" />
+      <stop offset="80%" stop-color="#ffffff" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.15" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .bg { fill: #020617; stroke: url(#borderGrad); stroke-width: 1.5; rx: 12px; }
+      .title { fill: #00f2fe; font-family: 'Segoe UI', sans-serif; font-size: 17px; font-weight: 700; letter-spacing: 0.5px; }
+      .label { fill: #cbd5e1; font-family: 'Segoe UI', sans-serif; font-size: 11px; font-weight: 600; text-anchor: middle; }
+      .sub-label { font-family: monospace; font-size: 10px; font-weight: bold; text-anchor: middle; }
+      
+      .base-plate { fill: #0f172a; stroke: #34d399; stroke-width: 1; }
+      .glass-tube { fill: url(#glassGrad); rx: 15px; }
+
+      /* Floating Anims */
+      .f-1 { animation: float 3s ease-in-out infinite; }
+      .f-2 { animation: float 3.5s ease-in-out infinite 0.4s; }
+      .f-3 { animation: float 3.2s ease-in-out infinite 0.8s; }
+      .f-4 { animation: float 3.7s ease-in-out infinite 0.2s; }
+      .f-5 { animation: float 3.4s ease-in-out infinite 0.6s; }
+
+      .fade-in { opacity: 0; animation: fadeIn 1s ease-out forwards; }
+
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-6px); }
+      }
+      @keyframes fadeIn { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- Background Box -->
+  <rect x="2" y="2" width="496" height="316" class="bg" />
+
+  <!-- Title -->
+  <text x="25" y="35" class="title">⚙ 3D DevOps &amp; Java Tech Stack</text>
+
+  <g class="fade-in">
+    <!-- ========================================== -->
+    <!-- 1. DOCKER (Cyan 3D Hex/Block)              -->
+    <!-- ========================================== -->
+    <g transform="translate(55, 135)">
+      <ellipse cx="0" cy="75" rx="32" ry="9" class="base-plate" />
+      <rect x="-32" y="-20" width="64" height="100" class="glass-tube" />
+      
+      <g class="f-1" filter="url(#glow)">
+        <!-- 3D Isometric Crystal Block -->
+        <path d="M-18,25 L0,15 L18,25 L0,35 Z" fill="#0284c7" />
+        <path d="M-18,25 L-18,40 L0,50 L0,35 Z" fill="#0369a1" />
+        <path d="M18,25 L18,40 L0,50 L0,35 Z" fill="#38bdf8" />
+      </g>
+      
+      <text x="0" y="102" class="label">Docker</text>
+      <text x="0" y="115" class="sub-label" style="fill: #38bdf8;">30%</text>
+    </g>
+
+    <!-- ========================================== -->
+    <!-- 2. KUBERNETES (Blue 3D Core)               -->
+    <!-- ========================================== -->
+    <g transform="translate(143, 135)">
+      <ellipse cx="0" cy="75" rx="32" ry="9" class="base-plate" style="stroke: #3b82f6;" />
+      <rect x="-32" y="-20" width="64" height="100" class="glass-tube" />
+      
+      <g class="f-2" filter="url(#glow)">
+        <path d="M-18,25 L0,15 L18,25 L0,35 Z" fill="#1d4ed8" />
+        <path d="M-18,25 L-18,40 L0,50 L0,35 Z" fill="#1e40af" />
+        <path d="M18,25 L18,40 L0,50 L0,35 Z" fill="#60a5fa" />
+      </g>
+
+      <text x="0" y="102" class="label">Kubernetes</text>
+      <text x="0" y="115" class="sub-label" style="fill: #60a5fa;">25%</text>
+    </g>
+
+    <!-- ========================================== -->
+    <!-- 3. AWS (Orange Cloud Monolith)             -->
+    <!-- ========================================== -->
+    <g transform="translate(231, 135)">
+      <ellipse cx="0" cy="75" rx="32" ry="9" class="base-plate" style="stroke: #f59e0b;" />
+      <rect x="-32" y="-20" width="64" height="100" class="glass-tube" />
+      
+      <g class="f-3" filter="url(#glow)">
+        <path d="M-18,25 L0,15 L18,25 L0,35 Z" fill="#d97706" />
+        <path d="M-18,25 L-18,40 L0,50 L0,35 Z" fill="#b45309" />
+        <path d="M18,25 L18,40 L0,50 L0,35 Z" fill="#fbbf24" />
+      </g>
+
+      <text x="0" y="102" class="label">AWS Cloud</text>
+      <text x="0" y="115" class="sub-label" style="fill: #fbbf24;">20%</text>
+    </g>
+
+    <!-- ========================================== -->
+    <!-- 4. TERRAFORM (Purple Infrastructure)       -->
+    <!-- ========================================== -->
+    <g transform="translate(319, 135)">
+      <ellipse cx="0" cy="75" rx="32" ry="9" class="base-plate" style="stroke: #8b5cf6;" />
+      <rect x="-32" y="-20" width="64" height="100" class="glass-tube" />
+      
+      <g class="f-4" filter="url(#glow)">
+        <path d="M-18,25 L0,15 L18,25 L0,35 Z" fill="#7c3aed" />
+        <path d="M-18,25 L-18,40 L0,50 L0,35 Z" fill="#5b21b6" />
+        <path d="M18,25 L18,40 L0,50 L0,35 Z" fill="#a78bfa" />
+      </g>
+
+      <text x="0" y="102" class="label">Terraform</text>
+      <text x="0" y="115" class="sub-label" style="fill: #a78bfa;">15%</text>
+    </g>
+
+    <!-- ========================================== -->
+    <!-- 5. JAVA (Ruby Red 3D Module Added)         -->
+    <!-- ========================================== -->
+    <g transform="translate(407, 135)">
+      <ellipse cx="0" cy="75" rx="32" ry="9" class="base-plate" style="stroke: #f43f5e;" />
+      <rect x="-32" y="-20" width="64" height="100" class="glass-tube" />
+      
+      <g class="f-5" filter="url(#glow)">
+        <path d="M-18,25 L0,15 L18,25 L0,35 Z" fill="#e11d48" />
+        <path d="M-18,25 L-18,40 L0,50 L0,35 Z" fill="#be123c" />
+        <path d="M18,25 L18,40 L0,50 L0,35 Z" fill="#fb7185" />
+      </g>
+
+      <text x="0" y="102" class="label">Java</text>
+      <text x="0" y="115" class="sub-label" style="fill: #fb7185;">10%</text>
+    </g>
+  </g>
+</svg>
