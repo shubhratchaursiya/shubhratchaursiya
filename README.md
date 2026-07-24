@@ -22,9 +22,12 @@
 </p>
 
 ### 🐍 My Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhratchaursiya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C792EA&line=BB9AF7&point=F7768E" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shubhratchaursiya&theme=react-dark&hide_border=true&radius=18&bg_color=0B1020&color=22D3EE&line=C084FC&point=F472B6&area=true&area_color=22D3EE&custom_title=Shubhrat%20Chaursiya's%20Contribution%20Graph"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </p>
 
 <div align="center">
