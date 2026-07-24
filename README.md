@@ -22,13 +22,7 @@
 </p>
 
 ### 🐍 My Contribution Graph
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shubhratchaursiya&theme=react-dark&hide_border=true&radius=18&bg_color=0B1020&color=22D3EE&line=C084FC&point=F472B6&area=true&area_color=22D3EE&custom_title=Shubhrat%20Chaursiya's%20Contribution%20Graph"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p>
+![Shubhrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhratchaursiya&show_icons=true&theme=dark&bg_color=080E18&title_color=00F2FE&icon_color=00F2FE&text_color=8B9BB4&border_color=00F2FE)
 
 <div align="center">
 
