@@ -40,101 +40,53 @@
 
   <br/><br/>
 
-  <!-- LINKEDIN 3D -->
+<p>
+  <!-- LINKEDIN BADGE -->
   <a href="https://www.linkedin.com/in/shubhrat-chaursiya-819672354/" target="_blank">
-    <svg width="155" height="46" viewBox="0 0 155 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="li-bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stop-color="#1877F2"/>
-          <stop offset="50%" stop-color="#0A66C2"/>
-          <stop offset="100%" stop-color="#084282"/>
-        </linearGradient>
-        <linearGradient id="glass-gloss" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.35"/>
-          <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.05"/>
-          <stop offset="100%" stop-color="#000000" stop-opacity="0.2"/>
-        </linearGradient>
-        <filter id="shadow3d" x="-10%" y="-10%" width="120%" height="130%">
-          <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000000" flood-opacity="0.5"/>
-        </filter>
-      </defs>
-      <rect x="2" y="2" width="151" height="40" rx="10" fill="url(#li-bg)" filter="url(#shadow3d)" stroke="#3B82F6" stroke-width="1.5"/>
-      <rect x="3" y="3" width="149" height="18" rx="8" fill="url(#glass-gloss)"/>
-      <path d="M22 17h3.5v13H22V17zm1.75-5.5c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zM28 17h3.3v1.8h.05c.45-.8 1.5-1.8 3.3-1.8 3.5 0 4.1 2.3 4.1 5.3V30h-3.5v-6.5c0-1.5 0-3.5-2.1-3.5s-2.4 1.7-2.4 3.4V30H28V17z" fill="white" filter="url(#shadow3d)"/>
-      <text x="46" y="28" fill="white" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="800" font-size="15" letter-spacing="0.5">LinkedIn</text>
+    <svg width="120" height="35" viewBox="0 0 120 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="120" height="35" fill="#0077B5"/>
+      <path d="M14 12h2.5v11H14V12zm1.2-4c.8 0 1.5.7 1.5 1.5s-.7 1.5-1.5 1.5-1.5-.7-1.5-1.5.7-1.5 1.5-1.5zM18.5 12h2.4v1.5h.1c.3-.6 1.1-1.3 2.4-1.3 2.5 0 3 1.6 3 3.8V23h-2.5v-4.5c0-1.1 0-2.5-1.5-2.5s-1.7 1.2-1.7 2.4V23h-2.5V12z" fill="white"/>
+      <text x="36" y="22" fill="white" font-family="'Courier New', monospace, sans-serif" font-weight="900" font-size="13" letter-spacing="1">LINKEDIN</text>
     </svg>
   </a>
-  &nbsp;
+  <br/>
 
-  <!-- PORTFOLIO 3D -->
+  <!-- PORTFOLIO BADGE -->
   <a href="https://shubhratchaursiya.netlify.app" target="_blank">
-    <svg width="155" height="46" viewBox="0 0 155 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="port-bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stop-color="#38BDF8"/>
-          <stop offset="50%" stop-color="#00F2FE"/>
-          <stop offset="100%" stop-color="#0284C7"/>
-        </linearGradient>
-      </defs>
-      <rect x="2" y="2" width="151" height="40" rx="10" fill="url(#port-bg)" filter="url(#shadow3d)" stroke="#7DD3FC" stroke-width="1.5"/>
-      <rect x="3" y="3" width="149" height="18" rx="8" fill="url(#glass-gloss)"/>
-      <path d="M28 18h-11c-1.2 0-2 0.8-2 2v10c0 1.2 0.8 2 2 2h11c1.2 0 2-0.8 2-2V20c0-1.2-0.8-2-2-2zm-5.5 2c1.2 0 2 0.8 2 2s-0.8 2-2 2-2-0.8-2-2 0.8-2 2-2zm5.5 9h-11v-0.8c0-1.8 3.7-2.7 5.5-2.7s5.5 0.9 5.5 2.7v0.8z" fill="#080E18"/>
-      <text x="46" y="28" fill="#080E18" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="800" font-size="15" letter-spacing="0.5">Portfolio</text>
+    <svg width="130" height="35" viewBox="0 0 130 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="130" height="35" fill="#00F2FE"/>
+      <path d="M19 12h-8c-.8 0-1.5.7-1.5 1.5v8c0 .8.7 1.5 1.5 1.5h8c.8 0 1.5-.7 1.5-1.5v-8c0-.8-.7-1.5-1.5-1.5zm-4 1.5c.8 0 1.5.7 1.5 1.5s-.7 1.5-1.5 1.5-1.5-.7-1.5-1.5.7-1.5 1.5-1.5zm4 7h-8v-.6c0-1.3 2.7-2 4-2s4 .7 4 2v.6z" fill="#000000"/>
+      <text x="35" y="22" fill="#000000" font-family="'Courier New', monospace, sans-serif" font-weight="900" font-size="13" letter-spacing="1">PORTFOLIO</text>
     </svg>
   </a>
-  &nbsp;
+  <br/>
 
-  <!-- EMAIL 3D -->
+  <!-- EMAIL BADGE -->
   <a href="mailto:shubhratchaursiya2005@gmail.com">
-    <svg width="145" height="46" viewBox="0 0 145 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="mail-bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stop-color="#FF5252"/>
-          <stop offset="50%" stop-color="#EA4335"/>
-          <stop offset="100%" stop-color="#B31412"/>
-        </linearGradient>
-      </defs>
-      <rect x="2" y="2" width="141" height="40" rx="10" fill="url(#mail-bg)" filter="url(#shadow3d)" stroke="#FF8A80" stroke-width="1.5"/>
-      <rect x="3" y="3" width="139" height="18" rx="8" fill="url(#glass-gloss)"/>
-      <path d="M18 18l6 3.8 6-3.8v-1.5l-6 3.8-6-3.8v1.5zm12-3H12c-.8 0-1.5.7-1.5 1.5v11c0 .8.7 1.5 1.5 1.5h18c.8 0 1.5-.7 1.5-1.5v-11c0-.8-.7-1.5-1.5-1.5zm0 125H12V18l6 3.8 6-3.8v9z" fill="white" filter="url(#shadow3d)"/>
-      <text x="46" y="28" fill="white" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="800" font-size="15" letter-spacing="0.5">Email</text>
+    <svg width="100" height="35" viewBox="0 0 100 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100" height="35" fill="#EA4335"/>
+      <path d="M12 13.5l4.5 3 4.5-3v-1l-4.5 3-4.5-3v1zm9-2h-9c-.6 0-1 .4-1 1v8c0 .6.4 1 1 1h9c.6 0 1-.4 1-1v-8c0-.6-.4-1-1-1zm0 9h-9v-6l4.5 3 4.5-3v6z" fill="white"/>
+      <text x="32" y="22" fill="white" font-family="'Courier New', monospace, sans-serif" font-weight="900" font-size="13" letter-spacing="1">EMAIL</text>
     </svg>
   </a>
-  &nbsp;
+  <br/>
 
-  <!-- TWITTER / X 3D -->
+  <!-- TWITTER / X BADGE -->
   <a href="https://x.com/shubhrat_0829" target="_blank">
-    <svg width="145" height="46" viewBox="0 0 145 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="x-bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stop-color="#2D3748"/>
-          <stop offset="50%" stop-color="#1A202C"/>
-          <stop offset="100%" stop-color="#0F172A"/>
-        </linearGradient>
-      </defs>
-      <rect x="2" y="2" width="141" height="40" rx="10" fill="url(#x-bg)" filter="url(#shadow3d)" stroke="#475569" stroke-width="1.5"/>
-      <rect x="3" y="3" width="139" height="18" rx="8" fill="url(#glass-gloss)"/>
-      <path d="M16 15h2.8l4.5 6.4 4.9-6.4h2.9l-6.4 8.2 7 9.4h-2.8l-5-6.8-5.3 6.8h-2.9l7-8.7L16 15zm3.7 1.5h-1.4l8.7 12.3h1.4L19.7 16.5z" fill="white" filter="url(#shadow3d)"/>
-      <text x="46" y="28" fill="white" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="800" font-size="15" letter-spacing="0.5">Twitter</text>
+    <svg width="115" height="35" viewBox="0 0 115 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="115" height="35" fill="#000000"/>
+      <path d="M11 11h2l3.3 4.6 3.6-4.6h2.1l-4.7 6 5.2 6.8h-2l-3.7-5-3.9 5h-2.1l5.1-6.4L11 11zm2.7 1h-1l6.4 9.1h1L13.7 12z" fill="white"/>
+      <text x="33" y="22" fill="white" font-family="'Courier New', monospace, sans-serif" font-weight="900" font-size="13" letter-spacing="1">TWITTER</text>
     </svg>
   </a>
-  &nbsp;
+  <br/>
 
-  <!-- INSTAGRAM 3D -->
+  <!-- INSTAGRAM BADGE -->
   <a href="https://www.instagram.com" target="_blank">
-    <svg width="155" height="46" viewBox="0 0 155 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="insta-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="#833AB4"/>
-          <stop offset="50%" stop-color="#FD1D1D"/>
-          <stop offset="100%" stop-color="#FCB045"/>
-        </linearGradient>
-      </defs>
-      <rect x="2" y="2" width="151" height="40" rx="10" fill="url(#insta-bg)" filter="url(#shadow3d)" stroke="#FF8A65" stroke-width="1.5"/>
-      <rect x="3" y="3" width="149" height="18" rx="8" fill="url(#glass-gloss)"/>
-      <path d="M22 17c-2.8 0-5 2.2-5 5s2.2 5 5 5 5-2.2 5-5-2.2-5-5-5zm0 8.2c-1.8 0-3.2-1.4-3.2-3.2s1.4-3.2 3.2-3.2 3.2 1.4 3.2 3.2-1.4 3.2-3.2 3.2zm5.8-8.4c-.6 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2 1.2-.5 1.2-1.2-.5-1.2-1.2-1.2zM22 14c2.6 0 2.9 0 3.9.1 2.3.1 3.2 1.1 3.3 3.4.1 1 .1 1.3.1 3.9s0 2.9-.1 3.9c-.1 2.3-1.1 3.2-3.3 3.3-1 .1-1.3.1-3.9.1s-2.9 0-3.9-.1c-2.3-.1-3.2-1.1-3.3-3.3-.1-1-.1-1.3-.1-3.9s0-2.9.1-3.9c.1-2.3 1.1-3.2 3.3-3.3 1-.1 1.3-.1 3.9-.1z" fill="white" filter="url(#shadow3d)"/>
-      <text x="46" y="28" fill="white" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="800" font-size="15" letter-spacing="0.5">Instagram</text>
+    <svg width="135" height="35" viewBox="0 0 135 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="135" height="35" fill="#E1306C"/>
+      <path d="M15 11c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm0 6.5c-1.4 0-2.5-1.1-2.5-2.5s1.1-2.5 2.5-2.5 2.5 1.1 2.5 2.5-1.1 2.5-2.5 2.5zm4.6-6.7c-.5 0-.9.4-.9.9s.4.9.9.9.9-.4.9-.9-.4-.9-.9-.9zM15 8.7c2 0 2.3 0 3.1.1 1.8.1 2.5.8 2.6 2.6.1.8.1 1 .1 3.1s0 2.3-.1 3.1c-.1 1.8-.8 2.5-2.6 2.6-.8.1-1 .1-3.1.1s-2.3 0-3.1-.1c-1.8-.1-2.5-.8-2.6-2.6-.1-.8-.1-1-.1-3.1s0-2.3.1-3.1c.1-1.8.8-2.5 2.6-2.6.8-.1 1-.1 3.1-.1z" fill="white"/>
+      <text x="32" y="22" fill="white" font-family="'Courier New', monospace, sans-serif" font-weight="900" font-size="13" letter-spacing="1">INSTAGRAM</text>
     </svg>
   </a>
-
-</div>
+</p>
