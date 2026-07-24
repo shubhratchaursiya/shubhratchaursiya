@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="./stats.svg?v=1" alt="GitHub Stats" width="48%" />
-  <img src="./langs.svg?v=1" alt="Top Languages" width="48%" />
+  <img src="./langs.svg?v=2" alt="Tech Stack" width="48%" />
 </p>
 
 <p align="center">
