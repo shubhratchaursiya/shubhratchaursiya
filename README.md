@@ -33,9 +33,30 @@
 </div>
 
 ---
-<p align="center">
-  <img src="./contact.svg" alt="Shubhrat's Contact Links" width="100%" />
-</p>
+
+<!-- ⚡ CONNECT WITH ME SECTION ADDED HERE ⚡ -->
 <div align="center">
+
+  <!-- Contact Banner SVG -->
+  <img src="./contact.svg" width="100%" alt="Shubhrat Chaursiya Contact Card" />
+
+  <br/><br/>
+
+  <!-- Clickable Interactive Buttons -->
+  <a href="https://www.linkedin.com/in/shubhrat-chaursiya-819672354/" target="_blank">
+    <img src="https://img.shields.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://shubhratchaursiya.netlify.app" target="_blank">
+    <img src="https://img.shields.com/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+  <a href="mailto:shubhratchaursiya2005@gmail.com">
+    <img src="https://img.shields.com/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/shubhrat_0829" target="_blank">
+    <img src="https://img.shields.com/badge/Twitter-15202B?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.com/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
 </div>
