@@ -22,7 +22,9 @@
 </p>
 
 ### 🐍 My Contribution Graph
-![Shubhrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhratchaursiya&show_icons=true&theme=dark&bg_color=080E18&title_color=00F2FE&icon_color=00F2FE&text_color=8B9BB4&border_color=00F2FE)
+<p align="center">
+  <img src="./contribution-graph.svg" alt="Shubhrat's Contribution Activity" width="100%" />
+</p>
 
 <div align="center">
 
