@@ -39,7 +39,6 @@
   <img src="./contact.svg" width="100%" alt="Connect With Me Banner" />
 
   <br/><br/>
-  <h2 align="center">⚡ Connect With Me</h2>
 
 <p align="center">
 Let's connect, collaborate, and build something amazing together.
@@ -56,7 +55,7 @@ Let's connect, collaborate, and build something amazing together.
 </td>
 
 <td align="center" width="20%">
-<a href="https://github.com/SHUBHRATCHAURSIYA" target="_blank">
+<a href="https://github.com/shubhratchaursiya" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="90"/><br><br>
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge"/>
 </a>
@@ -70,7 +69,7 @@ Let's connect, collaborate, and build something amazing together.
 </td>
 
 <td align="center" width="20%">
-<a href="https://x.com/YOUR_USERNAME" target="_blank">
+<a href="https://x.com/shubhrat_0829" target="_blank">
 <img src="https://cdn.simpleicons.org/x/ffffff" width="90"/><br><br>
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge"/>
 </a>
