@@ -1,0 +1,94 @@
+<svg width="800" height="280" viewBox="0 0 800 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #080E18; stroke: #00F2FE; stroke-width: 1.5; rx: 16px; }
+    .header { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 18px; fill: #00F2FE; }
+    .subtext { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; fill: #6B7C96; }
+    .stat-label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #8B9BB4; font-weight: 500; }
+    .stat-value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #00F2FE; font-weight: 700; }
+    .stat-value-pink { fill: #FF5376; }
+    .stat-value-yellow { fill: #FFCB6B; }
+    
+    /* Graph Blocks */
+    .c-0 { fill: #101A28; rx: 2px; }
+    .c-1 { fill: #004D61; rx: 2px; }
+    .c-2 { fill: #008CA8; rx: 2px; }
+    .c-3 { fill: #00D8F6; rx: 2px; }
+    .c-4 { fill: #00F2FE; rx: 2px; filter: drop-shadow(0px 0px 2px #00F2FE); }
+    .c-pink { fill: #FF5376; rx: 2px; filter: drop-shadow(0px 0px 2px #FF5376); }
+  </style>
+
+  <!-- Background Card -->
+  <rect width="798" height="278" x="1" y="1" class="bg" rx="16" />
+
+  <!-- Header -->
+  <text x="30" y="40" class="header">⚡ Shubhrat's Contribution Activity</text>
+  <text x="770" y="40" class="subtext" text-anchor="end">1,024+ Commits</text>
+  <line x1="30" y1="55" x2="770" y2="55" stroke="#1A2A3A" stroke-width="1" />
+
+  <!-- Stats Column (Left Side) -->
+  <g transform="translate(30, 75)">
+    <!-- Rank Ring -->
+    <circle cx="40" cy="40" r="32" stroke="#101A28" stroke-width="6" fill="none" />
+    <circle cx="40" cy="40" r="32" stroke="#00F2FE" stroke-width="6" fill="none" stroke-dasharray="200" stroke-dashoffset="45" stroke-linecap="round" />
+    <text x="40" y="47" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="22" fill="#00F2FE" text-anchor="middle">S</text>
+
+    <!-- Stats Table -->
+    <text x="100" y="22" class="stat-label">Total Stars Earned:</text>
+    <text x="220" y="22" class="stat-value stat-value-yellow">128+</text>
+
+    <text x="100" y="47" class="stat-label">Total Commits:</text>
+    <text x="220" y="47" class="stat-value">1,024+</text>
+
+    <text x="100" y="72" class="stat-label">Public Repos:</text>
+    <text x="220" y="72" class="stat-value">15+</text>
+
+    <text x="100" y="97" class="stat-label">Highest Streak:</text>
+    <text x="220" y="97" class="stat-value stat-value-pink">14 Days</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="280" y1="75" x2="280" y2="240" stroke="#1A2A3A" stroke-width="1" />
+
+  <!-- Matrix Contribution Grid (Right Side) -->
+  <g transform="translate(300, 75)">
+    <!-- Simulated Weeks Grid -->
+    <!-- Column 1 -->
+    <rect x="0" y="0" width="11" height="11" class="c-0"/><rect x="0" y="15" width="11" height="11" class="c-1"/><rect x="0" y="30" width="11" height="11" class="c-0"/><rect x="0" y="45" width="11" height="11" class="c-2"/><rect x="0" y="60" width="11" height="11" class="c-0"/><rect x="0" y="75" width="11" height="11" class="c-1"/><rect x="0" y="90" width="11" height="11" class="c-0"/>
+    <!-- Column 2 -->
+    <rect x="15" y="0" width="11" height="11" class="c-2"/><rect x="15" y="15" width="11" height="11" class="c-3"/><rect x="15" y="30" width="11" height="11" class="c-4"/><rect x="15" y="45" width="11" height="11" class="c-2"/><rect x="15" y="60" width="11" height="11" class="c-1"/><rect x="15" y="75" width="11" height="11" class="c-0"/><rect x="15" y="90" width="11" height="11" class="c-3"/>
+    <!-- Column 3 -->
+    <rect x="30" y="0" width="11" height="11" class="c-0"/><rect x="30" y="15" width="11" height="11" class="c-1"/><rect x="30" y="30" width="11" height="11" class="c-3"/><rect x="30" y="45" width="11" height="11" class="c-pink"/><rect x="30" y="60" width="11" height="11" class="c-4"/><rect x="30" y="75" width="11" height="11" class="c-2"/><rect x="30" y="90" width="11" height="11" class="c-1"/>
+    <!-- Column 4 -->
+    <rect x="45" y="0" width="11" height="11" class="c-1"/><rect x="45" y="15" width="11" height="11" class="c-0"/><rect x="45" y="30" width="11" height="11" class="c-2"/><rect x="45" y="45" width="11" height="11" class="c-3"/><rect x="45" y="60" width="11" height="11" class="c-0"/><rect x="45" y="75" width="11" height="11" class="c-1"/><rect x="45" y="90" width="11" height="11" class="c-0"/>
+    <!-- Column 5 -->
+    <rect x="60" y="0" width="11" height="11" class="c-3"/><rect x="60" y="15" width="11" height="11" class="c-4"/><rect x="60" y="30" width="11" height="11" class="c-4"/><rect x="60" y="45" width="11" height="11" class="c-2"/><rect x="60" y="60" width="11" height="11" class="c-1"/><rect x="60" y="75" width="11" height="11" class="c-3"/><rect x="60" y="90" width="11" height="11" class="c-pink"/>
+    <!-- Column 6 -->
+    <rect x="75" y="0" width="11" height="11" class="c-1"/><rect x="75" y="15" width="11" height="11" class="c-2"/><rect x="75" y="30" width="11" height="11" class="c-0"/><rect x="75" y="45" width="11" height="11" class="c-1"/><rect x="75" y="60" width="11" height="11" class="c-3"/><rect x="75" y="75" width="11" height="11" class="c-4"/><rect x="75" y="90" width="11" height="11" class="c-2"/>
+    <!-- Column 7 -->
+    <rect x="90" y="0" width="11" height="11" class="c-0"/><rect x="90" y="15" width="11" height="11" class="c-1"/><rect x="90" y="30" width="11" height="11" class="c-2"/><rect x="90" y="45" width="11" height="11" class="c-0"/><rect x="90" y="60" width="11" height="11" class="c-1"/><rect x="90" y="75" width="11" height="11" class="c-0"/><rect x="90" y="90" width="11" height="11" class="c-0"/>
+    <!-- Repeat pattern for width -->
+    <rect x="105" y="0" width="11" height="11" class="c-2"/><rect x="105" y="15" width="11" height="11" class="c-3"/><rect x="105" y="30" width="11" height="11" class="c-4"/><rect x="105" y="45" width="11" height="11" class="c-2"/><rect x="105" y="60" width="11" height="11" class="c-1"/><rect x="105" y="75" width="11" height="11" class="c-3"/><rect x="105" y="90" width="11" height="11" class="c-4"/>
+    <rect x="120" y="0" width="11" height="11" class="c-4"/><rect x="120" y="15" width="11" height="11" class="c-4"/><rect x="120" y="30" width="11" height="11" class="c-pink"/><rect x="120" y="45" width="11" height="11" class="c-3"/><rect x="120" y="60" width="11" height="11" class="c-2"/><rect x="120" y="75" width="11" height="11" class="c-1"/><rect x="120" y="90" width="11" height="11" class="c-3"/>
+    <rect x="135" y="0" width="11" height="11" class="c-1"/><rect x="135" y="15" width="11" height="11" class="c-2"/><rect x="135" y="30" width="11" height="11" class="c-3"/><rect x="135" y="45" width="11" height="11" class="c-4"/><rect x="135" y="60" width="11" height="11" class="c-4"/><rect x="135" y="75" width="11" height="11" class="c-2"/><rect x="135" y="90" width="11" height="11" class="c-1"/>
+    <rect x="150" y="0" width="11" height="11" class="c-0"/><rect x="150" y="15" width="11" height="11" class="c-1"/><rect x="150" y="30" width="11" height="11" class="c-2"/><rect x="150" y="45" width="11" height="11" class="c-3"/><rect x="150" y="60" width="11" height="11" class="c-1"/><rect x="150" y="75" width="11" height="11" class="c-0"/><rect x="150" y="90" width="11" height="11" class="c-2"/>
+    <rect x="165" y="0" width="11" height="11" class="c-3"/><rect x="165" y="15" width="11" height="11" class="c-4"/><rect x="165" y="30" width="11" height="11" class="c-2"/><rect x="165" y="45" width="11" height="11" class="c-1"/><rect x="165" y="60" width="11" height="11" class="c-0"/><rect x="165" y="75" width="11" height="11" class="c-pink"/><rect x="165" y="90" width="11" height="11" class="c-3"/>
+    <rect x="180" y="0" width="11" height="11" class="c-2"/><rect x="180" y="15" width="11" height="11" class="c-3"/><rect x="180" y="30" width="11" height="11" class="c-4"/><rect x="180" y="45" width="11" height="11" class="c-3"/><rect x="180" y="60" width="11" height="11" class="c-2"/><rect x="180" y="75" width="11" height="11" class="c-1"/><rect x="180" y="90" width="11" height="11" class="c-0"/>
+    <rect x="195" y="0" width="11" height="11" class="c-0"/><rect x="195" y="15" width="11" height="11" class="c-1"/><rect x="195" y="30" width="11" height="11" class="c-2"/><rect x="195" y="45" width="11" height="11" class="c-3"/><rect x="195" y="60" width="11" height="11" class="c-4"/><rect x="195" y="75" width="11" height="11" class="c-2"/><rect x="195" y="90" width="11" height="11" class="c-1"/>
+    <rect x="210" y="0" width="11" height="11" class="c-1"/><rect x="210" y="15" width="11" height="11" class="c-2"/><rect x="210" y="30" width="11" height="11" class="c-3"/><rect x="210" y="45" width="11" height="11" class="c-4"/><rect x="210" y="60" width="11" height="11" class="c-pink"/><rect x="210" y="75" width="11" height="11" class="c-3"/><rect x="210" y="90" width="11" height="11" class="c-2"/>
+    <rect x="225" y="0" width="11" height="11" class="c-3"/><rect x="225" y="15" width="11" height="11" class="c-4"/><rect x="225" y="30" width="11" height="11" class="c-3"/><rect x="225" y="45" width="11" height="11" class="c-2"/><rect x="225" y="60" width="11" height="11" class="c-1"/><rect x="225" y="75" width="11" height="11" class="c-0"/><rect x="225" y="90" width="11" height="11" class="c-1"/>
+    <rect x="240" y="0" width="11" height="11" class="c-4"/><rect x="240" y="15" width="11" height="11" class="c-3"/><rect x="240" y="30" width="11" height="11" class="c-2"/><rect x="240" y="45" width="11" height="11" class="c-1"/><rect x="240" y="60" width="11" height="11" class="c-0"/><rect x="240" y="75" width="11" height="11" class="c-2"/><rect x="240" y="90" width="11" height="11" class="c-4"/>
+    <rect x="255" y="0" width="11" height="11" class="c-2"/><rect x="255" y="15" width="11" height="11" class="c-1"/><rect x="255" y="30" width="11" height="11" class="c-0"/><rect x="255" y="45" width="11" height="11" class="c-3"/><rect x="255" y="60" width="11" height="11" class="c-4"/><rect x="255" y="75" width="11" height="11" class="c-pink"/><rect x="255" y="90" width="11" height="11" class="c-2"/>
+
+    <!-- Legend -->
+    <g transform="translate(0, 130)">
+      <text x="0" y="10" class="subtext">Less</text>
+      <rect x="35" y="1" width="10" height="10" class="c-0"/>
+      <rect x="50" y="1" width="10" height="10" class="c-1"/>
+      <rect x="65" y="1" width="10" height="10" class="c-2"/>
+      <rect x="80" y="1" width="10" height="10" class="c-3"/>
+      <rect x="95" y="1" width="10" height="10" class="c-4"/>
+      <rect x="110" y="1" width="10" height="10" class="c-pink"/>
+      <text x="130" y="10" class="subtext">More</text>
+    </g>
+  </g>
+</svg>
