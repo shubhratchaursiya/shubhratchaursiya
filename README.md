@@ -33,7 +33,9 @@
 </div>
 
 ---
-
+<p align="center">
+  <img src="./contact.svg" alt="Shubhrat's Contact Links" width="100%" />
+</p>
 <div align="center">
 
 </div>
