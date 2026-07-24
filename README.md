@@ -22,7 +22,11 @@
 </p>
 
 ### 🐍 My Contribution Graph
-<img src="dist/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhratchaursiya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C792EA&line=BB9AF7&point=F7768E" width="100%" />
+</p>
+
 <div align="center">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
