@@ -23,5 +23,14 @@
 
 ### 🐍 My Contribution Graph
 <img src="dist/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
 
 </div>
